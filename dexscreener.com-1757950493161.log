@@ -1,0 +1,2785 @@
+ [v9.3 FINAL] PERFECT BROWSER EMULATION initializing...
+ [v9.3] Browser #1
+ [v9.3] CF clearance: YES
+ [SESSION] New user session started: sess_4h6xrdxgw_1757950284881 | Max ops: 8
+ [v9.3 FINAL] Starting PERFECT BROWSER EMULATION...
+ [v9.3] ✅ All fetch requests use credentials: include
+ [v9.3] ✅ Browser automatically handles cookies
+ [v9.3] ✅ No Puppeteer traces in headers
+ Refused to set unsafe header "sec-ch-ua"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):384
+(anonymous) @ pptr:evaluate;runBro…js%3A1383%3A37):743
+(anonymous) @ pptr:evaluate;runBro…js%3A1383%3A37):801
+ Refused to set unsafe header "sec-ch-ua-mobile"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):385
+(anonymous) @ pptr:evaluate;runBro…js%3A1383%3A37):743
+(anonymous) @ pptr:evaluate;runBro…js%3A1383%3A37):801
+ Refused to set unsafe header "sec-ch-ua-platform"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):386
+(anonymous) @ pptr:evaluate;runBro…js%3A1383%3A37):743
+(anonymous) @ pptr:evaluate;runBro…js%3A1383%3A37):801
+ [v9.3] ✅ PERFECT BROWSER EMULATION ACTIVE!
+ Download the React DevTools for a better development experience: https://reactjs.org/link/react-devtools
+Fetch event handler is recognized as no-op. No-op fetch handler may bring overhead during navigation. Consider removing the handler if possible.
+event:1  Failed to load resource: the server responded with a status of 403 ()
+plausible.local.outbound-links.js:1  Failed to load resource: the server responded with a status of 403 ()
+details:1   Third-party cookie is blocked in Chrome as part of Privacy Sandbox.
+details:1   Third-party cookie is blocked in Chrome as part of Privacy Sandbox.
+ [WS] Connected #1 | Total open: 1
+ [WS] Connected #2 | Total open: 2
+  GET https://io.dexscreener.com/hype/reactions/dexPair/ethereum:0x0b3936ccAA286c430788883d8BCA448Bae779dE1 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+get @ pages_catch-all.D-F7dCJN.js:317
+getReactions @ pages_catch-all.D-F7dCJN.js:186
+(anonymous) @ pages_catch-all.D-F7dCJN.js:317
+callback @ pages_catch-all.D-F7dCJN.js:317
+getInitialValue @ pages_catch-all.D-F7dCJN.js:186
+(anonymous) @ pages_catch-all.D-F7dCJN.js:317
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+kge @ pages_catch-all.D-F7dCJN.js:136
+ew @ pages_catch-all.D-F7dCJN.js:53
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kJe @ pages_catch-all.D-F7dCJN.js:136
+Ige @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+pages_catch-all.D-F7dCJN.js:317 Uncaught (in promise) 
+e @ pages_catch-all.D-F7dCJN.js:317
+await in e
+(anonymous) @ pages_catch-all.D-F7dCJN.js:317
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+kge @ pages_catch-all.D-F7dCJN.js:136
+ew @ pages_catch-all.D-F7dCJN.js:53
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kJe @ pages_catch-all.D-F7dCJN.js:136
+Ige @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+  GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+avro @ pages_catch-all.D-F7dCJN.js:317
+getLogs @ AMMPairDetailChart-DFJS8Ziv.js:1
+fetchHistory @ AMMPairDetailChart-DFJS8Ziv.js:1
+R @ dex-pair-details-CfogGDHD.js:3
+callback @ dex-pair-details-CfogGDHD.js:3
+callback @ pages_catch-all.D-F7dCJN.js:186
+hPe @ pages_catch-all.D-F7dCJN.js:186
+Bn @ pages_catch-all.D-F7dCJN.js:186
+(anonymous) @ dex-pair-details-CfogGDHD.js:3
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+kge @ pages_catch-all.D-F7dCJN.js:136
+ew @ pages_catch-all.D-F7dCJN.js:53
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kJe @ pages_catch-all.D-F7dCJN.js:136
+Ige @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+  GET https://io.dexscreener.com/dex/trending/v6?chainId=ethereum&timeframeKey=h6 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+avro @ pages_catch-all.D-F7dCJN.js:317
+getPairs @ pages_catch-all.D-F7dCJN.js:186
+(anonymous) @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+c._next @ pages_catch-all.D-F7dCJN.js:168
+e.next @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+e._execute @ pages_catch-all.D-F7dCJN.js:168
+e.execute @ pages_catch-all.D-F7dCJN.js:168
+e.flush @ pages_catch-all.D-F7dCJN.js:168
+setInterval
+setInterval @ pages_catch-all.D-F7dCJN.js:168
+e.requestAsyncId @ pages_catch-all.D-F7dCJN.js:168
+e.schedule @ pages_catch-all.D-F7dCJN.js:168
+t.schedule @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+t._trySubscribe @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+TF @ pages_catch-all.D-F7dCJN.js:168
+t.subscribe @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+TF @ pages_catch-all.D-F7dCJN.js:168
+t.subscribe @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+c._next @ pages_catch-all.D-F7dCJN.js:168
+e.next @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+c._next @ pages_catch-all.D-F7dCJN.js:168
+e.next @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+c._next @ pages_catch-all.D-F7dCJN.js:168
+e.next @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+c._next @ pages_catch-all.D-F7dCJN.js:168
+e.next @ pages_catch-all.D-F7dCJN.js:168
+e._subscribe @ pages_catch-all.D-F7dCJN.js:168
+t._trySubscribe @ pages_catch-all.D-F7dCJN.js:168
+e._trySubscribe @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+TF @ pages_catch-all.D-F7dCJN.js:168
+t.subscribe @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+TF @ pages_catch-all.D-F7dCJN.js:168
+t.subscribe @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+TF @ pages_catch-all.D-F7dCJN.js:168
+t.subscribe @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+TF @ pages_catch-all.D-F7dCJN.js:168
+t.subscribe @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+TF @ pages_catch-all.D-F7dCJN.js:168
+t.subscribe @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:317
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kge @ pages_catch-all.D-F7dCJN.js:136
+ew @ pages_catch-all.D-F7dCJN.js:53
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kJe @ pages_catch-all.D-F7dCJN.js:136
+Ige @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+  GET https://io.dexscreener.com/hype/reactions/dexPair/ethereum:0x0b3936ccAA286c430788883d8BCA448Bae779dE1 403 (Forbidden)
+sendReaction @ pptr:evaluate;runBro…js%3A1383%3A37):493
+(anonymous) @ pptr:evaluate;runBro…js%3A1383%3A37):761
+ [REACTIONS] Error - Status: 403
+  GET https://io.dexscreener.com/dex/chart/amm/v3/uniswap/bars/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?res=15&cb=329&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+avro @ pages_catch-all.D-F7dCJN.js:317
+getBars @ pages_catch-all.D-F7dCJN.js:275
+fetchDexChartBars @ AMMPairDetailChart-DFJS8Ziv.js:1
+callback @ AMMPairDetailChart-DFJS8Ziv.js:1
+callback @ pages_catch-all.D-F7dCJN.js:186
+hPe @ pages_catch-all.D-F7dCJN.js:186
+Bn @ pages_catch-all.D-F7dCJN.js:186
+getBars @ AMMPairDetailChart-DFJS8Ziv.js:1
+_ensureRequestedTo @ library.97ddeff….js:42
+_processPendingSubscribers @ library.97ddeff….js:41
+(anonymous) @ library.97ddeff….js:40
+setTimeout
+addSubscription @ library.97ddeff….js:40
+subscribe @ library.97ddeff….js:44
+subscribe @ library.97ddeff….js:131
+(anonymous) @ library.97ddeff….js:46
+Promise.then
+V._resolveSymbolByName @ library.97ddeff….js:141
+resolve @ library.97ddeff….js:131
+_ @ library.97ddeff….js:46
+d.createItem @ library.97ddeff….js:46
+d.subscribe @ library.97ddeff….js:45
+h @ library.97ddeff….js:48
+start @ library.97ddeff….js:48
+p @ library.97ddeff….js:48
+e.exports.StudyEngine @ library.97ddeff….js:49
+m @ library.97ddeff….js:46
+d.createItem @ library.97ddeff….js:46
+d.subscribe @ library.97ddeff….js:45
+h @ library.97ddeff….js:48
+start @ library.97ddeff….js:48
+p @ library.97ddeff….js:48
+e.exports.StudyEngine @ library.97ddeff….js:49
+(anonymous) @ library.97ddeff….js:134
+V._computeStudy @ library.97ddeff….js:134
+await in V._computeStudy
+V.createSeries @ library.97ddeff….js:138
+JSServer.ChartApi.createSeries @ library.97ddeff….js:35
+createSeries @ library.97ddeff….js:304
+_createSeries @ library.97ddeff….js:690
+start @ library.97ddeff….js:690
+restart @ library.97ddeff….js:697
+restart @ library.97ddeff….js:462
+(anonymous) @ library.97ddeff….js:319
+_init @ library.97ddeff….js:319
+_requestMetadataAndProcessModel @ library.97ddeff….js:322
+await in _requestMetadataAndProcessModel
+_onConnection @ library.97ddeff….js:322
+_onChartSessionIsConnectedChanged @ library.97ddeff….js:306
+setValue @ library.97ddeff….js:213
+_onChartApiConnected @ library.97ddeff….js:303
+onMessage @ library.97ddeff….js:303
+JSServer.ChartApi._notifySessions @ library.97ddeff….js:37
+JSServer.ChartApi.connect @ library.97ddeff….js:35
+(anonymous) @ library.97ddeff….js:35
+JSServer.ChartApi._fireEvent @ library.97ddeff….js:34
+JSServer.ChartApi.start @ library.97ddeff….js:34
+(anonymous) @ library.97ddeff….js:868
+Promise.then
+48324 @ library.97ddeff….js:868
+r @ runtime.b283dc9….js:1
+(anonymous) @ library.97ddeff….js:887
+r.O @ runtime.b283dc9….js:1
+(anonymous) @ library.97ddeff….js:887
+a @ runtime.b283dc9….js:6
+(anonymous) @ library.97ddeff….js:1
+  GET https://io.dexscreener.com/dex/trending/v6?chainId=ethereum&timeframeKey=h6 403 (Forbidden)
+sendTrending @ pptr:evaluate;runBro…js%3A1383%3A37):639
+(anonymous) @ pptr:evaluate;runBro…js%3A1383%3A37):779
+ [WS] Initial ping sent
+  GET https://io.dexscreener.com/dex/chart/amm/v3/uniswap/bars/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?res=15&cb=329&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+avro @ pages_catch-all.D-F7dCJN.js:317
+getBars @ pages_catch-all.D-F7dCJN.js:275
+fetchDexChartBars @ AMMPairDetailChart-DFJS8Ziv.js:1
+callback @ AMMPairDetailChart-DFJS8Ziv.js:1
+callback @ pages_catch-all.D-F7dCJN.js:186
+hPe @ pages_catch-all.D-F7dCJN.js:186
+Bn @ pages_catch-all.D-F7dCJN.js:186
+await in Bn
+getBars @ AMMPairDetailChart-DFJS8Ziv.js:1
+_ensureRequestedTo @ library.97ddeff….js:42
+_processPendingSubscribers @ library.97ddeff….js:41
+(anonymous) @ library.97ddeff….js:40
+setTimeout
+addSubscription @ library.97ddeff….js:40
+subscribe @ library.97ddeff….js:44
+subscribe @ library.97ddeff….js:131
+(anonymous) @ library.97ddeff….js:46
+Promise.then
+V._resolveSymbolByName @ library.97ddeff….js:141
+resolve @ library.97ddeff….js:131
+_ @ library.97ddeff….js:46
+d.createItem @ library.97ddeff….js:46
+d.subscribe @ library.97ddeff….js:45
+h @ library.97ddeff….js:48
+start @ library.97ddeff….js:48
+p @ library.97ddeff….js:48
+e.exports.StudyEngine @ library.97ddeff….js:49
+m @ library.97ddeff….js:46
+d.createItem @ library.97ddeff….js:46
+d.subscribe @ library.97ddeff….js:45
+h @ library.97ddeff….js:48
+start @ library.97ddeff….js:48
+p @ library.97ddeff….js:48
+e.exports.StudyEngine @ library.97ddeff….js:49
+(anonymous) @ library.97ddeff….js:134
+V._computeStudy @ library.97ddeff….js:134
+await in V._computeStudy
+V.createSeries @ library.97ddeff….js:138
+JSServer.ChartApi.createSeries @ library.97ddeff….js:35
+createSeries @ library.97ddeff….js:304
+_createSeries @ library.97ddeff….js:690
+start @ library.97ddeff….js:690
+restart @ library.97ddeff….js:697
+restart @ library.97ddeff….js:462
+(anonymous) @ library.97ddeff….js:319
+_init @ library.97ddeff….js:319
+_requestMetadataAndProcessModel @ library.97ddeff….js:322
+await in _requestMetadataAndProcessModel
+_onConnection @ library.97ddeff….js:322
+_onChartSessionIsConnectedChanged @ library.97ddeff….js:306
+setValue @ library.97ddeff….js:213
+_onChartApiConnected @ library.97ddeff….js:303
+onMessage @ library.97ddeff….js:303
+JSServer.ChartApi._notifySessions @ library.97ddeff….js:37
+JSServer.ChartApi.connect @ library.97ddeff….js:35
+(anonymous) @ library.97ddeff….js:35
+JSServer.ChartApi._fireEvent @ library.97ddeff….js:34
+JSServer.ChartApi.start @ library.97ddeff….js:34
+(anonymous) @ library.97ddeff….js:868
+Promise.then
+48324 @ library.97ddeff….js:868
+r @ runtime.b283dc9….js:1
+(anonymous) @ library.97ddeff….js:887
+r.O @ runtime.b283dc9….js:1
+(anonymous) @ library.97ddeff….js:887
+a @ runtime.b283dc9….js:6
+(anonymous) @ library.97ddeff….js:1
+ [WS] Initial ping sent
+  GET https://io.dexscreener.com/dex/chart/amm/v3/uniswap/bars/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?res=15&cb=243&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBro…js%3A1383%3A37):457
+ [CHART] Error - Status: 403
+ [ADS] Sent all ad requests
+  GET https://io.dexscreener.com/dex/chart/amm/v3/uniswap/bars/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?res=15&cb=329&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+avro @ pages_catch-all.D-F7dCJN.js:317
+getBars @ pages_catch-all.D-F7dCJN.js:275
+fetchDexChartBars @ AMMPairDetailChart-DFJS8Ziv.js:1
+callback @ AMMPairDetailChart-DFJS8Ziv.js:1
+callback @ pages_catch-all.D-F7dCJN.js:186
+hPe @ pages_catch-all.D-F7dCJN.js:186
+Bn @ pages_catch-all.D-F7dCJN.js:186
+await in Bn
+getBars @ AMMPairDetailChart-DFJS8Ziv.js:1
+_ensureRequestedTo @ library.97ddeff….js:42
+_processPendingSubscribers @ library.97ddeff….js:41
+(anonymous) @ library.97ddeff….js:40
+setTimeout
+addSubscription @ library.97ddeff….js:40
+subscribe @ library.97ddeff….js:44
+subscribe @ library.97ddeff….js:131
+(anonymous) @ library.97ddeff….js:46
+Promise.then
+V._resolveSymbolByName @ library.97ddeff….js:141
+resolve @ library.97ddeff….js:131
+_ @ library.97ddeff….js:46
+d.createItem @ library.97ddeff….js:46
+d.subscribe @ library.97ddeff….js:45
+h @ library.97ddeff….js:48
+start @ library.97ddeff….js:48
+p @ library.97ddeff….js:48
+e.exports.StudyEngine @ library.97ddeff….js:49
+m @ library.97ddeff….js:46
+d.createItem @ library.97ddeff….js:46
+d.subscribe @ library.97ddeff….js:45
+h @ library.97ddeff….js:48
+start @ library.97ddeff….js:48
+p @ library.97ddeff….js:48
+e.exports.StudyEngine @ library.97ddeff….js:49
+(anonymous) @ library.97ddeff….js:134
+V._computeStudy @ library.97ddeff….js:134
+await in V._computeStudy
+V.createSeries @ library.97ddeff….js:138
+JSServer.ChartApi.createSeries @ library.97ddeff….js:35
+createSeries @ library.97ddeff….js:304
+_createSeries @ library.97ddeff….js:690
+start @ library.97ddeff….js:690
+restart @ library.97ddeff….js:697
+restart @ library.97ddeff….js:462
+(anonymous) @ library.97ddeff….js:319
+_init @ library.97ddeff….js:319
+_requestMetadataAndProcessModel @ library.97ddeff….js:322
+await in _requestMetadataAndProcessModel
+_onConnection @ library.97ddeff….js:322
+_onChartSessionIsConnectedChanged @ library.97ddeff….js:306
+setValue @ library.97ddeff….js:213
+_onChartApiConnected @ library.97ddeff….js:303
+onMessage @ library.97ddeff….js:303
+JSServer.ChartApi._notifySessions @ library.97ddeff….js:37
+JSServer.ChartApi.connect @ library.97ddeff….js:35
+(anonymous) @ library.97ddeff….js:35
+JSServer.ChartApi._fireEvent @ library.97ddeff….js:34
+JSServer.ChartApi.start @ library.97ddeff….js:34
+(anonymous) @ library.97ddeff….js:868
+Promise.then
+48324 @ library.97ddeff….js:868
+r @ runtime.b283dc9….js:1
+(anonymous) @ library.97ddeff….js:887
+r.O @ runtime.b283dc9….js:1
+(anonymous) @ library.97ddeff….js:887
+a @ runtime.b283dc9….js:6
+(anonymous) @ library.97ddeff….js:1
+  GET https://cfw.dexscreener.com/a/self-serve/afcb4a484d860c0cae41 403 (Forbidden)
+sendAds @ pptr:evaluate;runBro…js%3A1383%3A37):547
+(anonymous) @ pptr:evaluate;runBro…js%3A1383%3A37):767
+  GET https://cfw.dexscreener.com/a/direct/pair/trending-bar/metawin 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+text @ pages_catch-all.D-F7dCJN.js:317
+(anonymous) @ dex-pair-details-CfogGDHD.js:3
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+kge @ pages_catch-all.D-F7dCJN.js:136
+ew @ pages_catch-all.D-F7dCJN.js:53
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kJe @ pages_catch-all.D-F7dCJN.js:136
+Ige @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+  GET https://cfw.dexscreener.com/a/direct/pair/trending-bar/coin-casino 403 (Forbidden)
+sendAds @ pptr:evaluate;runBro…js%3A1383%3A37):535
+(anonymous) @ pptr:evaluate;runBro…js%3A1383%3A37):767
+  GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+avro @ pages_catch-all.D-F7dCJN.js:317
+getLogs @ AMMPairDetailChart-DFJS8Ziv.js:1
+fetchHistory @ AMMPairDetailChart-DFJS8Ziv.js:1
+R @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+setInterval
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+kge @ pages_catch-all.D-F7dCJN.js:136
+ew @ pages_catch-all.D-F7dCJN.js:53
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kJe @ pages_catch-all.D-F7dCJN.js:136
+Ige @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+ [WS] Pong sent from #1
+ Refused to set unsafe header "sec-ch-ua"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):384
+sendRealGA4Event.ep.chainId @ pptr:evaluate;runBro…js%3A1383%3A37):690
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ Refused to set unsafe header "sec-ch-ua-mobile"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):385
+sendRealGA4Event.ep.chainId @ pptr:evaluate;runBro…js%3A1383%3A37):690
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ Refused to set unsafe header "sec-ch-ua-platform"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):386
+sendRealGA4Event.ep.chainId @ pptr:evaluate;runBro…js%3A1383%3A37):690
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ [SESSION] Session ended: sess_4h6xrdxgw_1757950284881 | Duration: 7s | Operations: 8
+ [SESSION] New user session started: sess_9ts6s9cql_1757950292179 | Max ops: 5
+ [SOCIAL] Clicked telegram
+  POST https://pls.dexscreener.com/api/event 403 (Forbidden)
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):397
+sendRealGA4Event.ep.chainId @ pptr:evaluate;runBro…js%3A1383%3A37):690
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ [SEARCH] Sent search requests
+ [GA4] Event sent: page_view
+ [GA4] Event sent: social_click
+  GET https://io.dexscreener.com/dex/search/v10/pairs?q=0xfa302cbc7b79b9d5d9213278f567eb6145dc1830 403 (Forbidden)
+sendSearch @ pptr:evaluate;runBro…js%3A1383%3A37):595
+(anonymous) @ pptr:evaluate;runBro…js%3A1383%3A37):773
+  GET https://io.dexscreener.com/dex/search/spotlight/v8 403 (Forbidden)
+sendSearch @ pptr:evaluate;runBro…js%3A1383%3A37):566
+(anonymous) @ pptr:evaluate;runBro…js%3A1383%3A37):773
+ [SPOTLIGHT] Error - Status: 403
+  GET https://cfw.dexscreener.com/a/direct/search/native/coin-casino 403 (Forbidden)
+sendSearch @ pptr:evaluate;runBro…js%3A1383%3A37):619
+(anonymous) @ pptr:evaluate;runBro…js%3A1383%3A37):773
+  GET https://io.dexscreener.com/dex/chart/amm/v3/uniswap/bars/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?res=15&cb=312&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBro…js%3A1383%3A37):457
+ [CHART] Error - Status: 403
+  GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+avro @ pages_catch-all.D-F7dCJN.js:317
+getLogs @ AMMPairDetailChart-DFJS8Ziv.js:1
+fetchHistory @ AMMPairDetailChart-DFJS8Ziv.js:1
+R @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+setInterval
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+kge @ pages_catch-all.D-F7dCJN.js:136
+ew @ pages_catch-all.D-F7dCJN.js:53
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kJe @ pages_catch-all.D-F7dCJN.js:136
+Ige @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+  GET https://io.dexscreener.com/dex/chart/amm/v3/uniswap/bars/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?bbn=23328792&res=15&cb=218&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBro…js%3A1383%3A37):457
+ [CHART] Error - Status: 403
+ Refused to set unsafe header "sec-ch-ua"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):384
+sendRealGA4Event._c @ pptr:evaluate;runBro…js%3A1383%3A37):711
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ Refused to set unsafe header "sec-ch-ua-mobile"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):385
+sendRealGA4Event._c @ pptr:evaluate;runBro…js%3A1383%3A37):711
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ Refused to set unsafe header "sec-ch-ua-platform"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):386
+sendRealGA4Event._c @ pptr:evaluate;runBro…js%3A1383%3A37):711
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ [SESSION] Session ended: sess_9ts6s9cql_1757950292179 | Duration: 7s | Operations: 5
+ [SESSION] New user session started: sess_nuw2kc1uh_1757950299465 | Max ops: 19
+ [WATCHLIST] Added to watchlist
+ [GA4] Event sent: toggleWatchlist
+  POST https://pls.dexscreener.com/api/event 403 (Forbidden)
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):397
+sendRealGA4Event._c @ pptr:evaluate;runBro…js%3A1383%3A37):711
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+  GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+avro @ pages_catch-all.D-F7dCJN.js:317
+getLogs @ AMMPairDetailChart-DFJS8Ziv.js:1
+fetchHistory @ AMMPairDetailChart-DFJS8Ziv.js:1
+R @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+setInterval
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+kge @ pages_catch-all.D-F7dCJN.js:136
+ew @ pages_catch-all.D-F7dCJN.js:53
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kJe @ pages_catch-all.D-F7dCJN.js:136
+Ige @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+  GET https://io.dexscreener.com/hype/reactions/dexPair/ethereum:0x0b3936ccAA286c430788883d8BCA448Bae779dE1 403 (Forbidden)
+sendReaction @ pptr:evaluate;runBro…js%3A1383%3A37):493
+setInterval
+(anonymous) @ pptr:evaluate;runBro…js%3A1383%3A37):762
+ [REACTIONS] Error - Status: 403
+  GET https://io.dexscreener.com/dex/chart/amm/v3/uniswap/bars/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?res=15&cb=296&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBro…js%3A1383%3A37):457
+ [CHART] Error - Status: 403
+  GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+avro @ pages_catch-all.D-F7dCJN.js:317
+getLogs @ AMMPairDetailChart-DFJS8Ziv.js:1
+fetchHistory @ AMMPairDetailChart-DFJS8Ziv.js:1
+R @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+setInterval
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+kge @ pages_catch-all.D-F7dCJN.js:136
+ew @ pages_catch-all.D-F7dCJN.js:53
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kJe @ pages_catch-all.D-F7dCJN.js:136
+Ige @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+ Refused to set unsafe header "sec-ch-ua"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):384
+sendRealGA4Event._c @ pptr:evaluate;runBro…js%3A1383%3A37):711
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ Refused to set unsafe header "sec-ch-ua-mobile"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):385
+sendRealGA4Event._c @ pptr:evaluate;runBro…js%3A1383%3A37):711
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ Refused to set unsafe header "sec-ch-ua-platform"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):386
+sendRealGA4Event._c @ pptr:evaluate;runBro…js%3A1383%3A37):711
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ [WATCHLIST] Added to watchlist
+  POST https://pls.dexscreener.com/api/event 403 (Forbidden)
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):397
+sendRealGA4Event._c @ pptr:evaluate;runBro…js%3A1383%3A37):711
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ [GA4] Event sent: toggleWatchlist
+  GET https://io.dexscreener.com/dex/chart/amm/v3/uniswap/bars/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?bbn=23328872&res=15&cb=202&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBro…js%3A1383%3A37):457
+ [CHART] Error - Status: 403
+ [WS] Pong sent from #2
+  GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+avro @ pages_catch-all.D-F7dCJN.js:317
+getLogs @ AMMPairDetailChart-DFJS8Ziv.js:1
+fetchHistory @ AMMPairDetailChart-DFJS8Ziv.js:1
+R @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+setInterval
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+kge @ pages_catch-all.D-F7dCJN.js:136
+ew @ pages_catch-all.D-F7dCJN.js:53
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kJe @ pages_catch-all.D-F7dCJN.js:136
+Ige @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+  GET https://io.dexscreener.com/dex/chart/amm/v3/uniswap/bars/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?abn=23335872&res=15&cb=2&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBro…js%3A1383%3A37):457
+ [CHART] Error - Status: 403
+  GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?abn=23335903&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBro…js%3A1383%3A37):474
+  GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+avro @ pages_catch-all.D-F7dCJN.js:317
+getLogs @ AMMPairDetailChart-DFJS8Ziv.js:1
+fetchHistory @ AMMPairDetailChart-DFJS8Ziv.js:1
+R @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+setInterval
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+kge @ pages_catch-all.D-F7dCJN.js:136
+ew @ pages_catch-all.D-F7dCJN.js:53
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kJe @ pages_catch-all.D-F7dCJN.js:136
+Ige @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+ Refused to set unsafe header "sec-ch-ua"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):384
+sendRealGA4Event.ep.action @ pptr:evaluate;runBro…js%3A1383%3A37):700
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ Refused to set unsafe header "sec-ch-ua-mobile"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):385
+sendRealGA4Event.ep.action @ pptr:evaluate;runBro…js%3A1383%3A37):700
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ Refused to set unsafe header "sec-ch-ua-platform"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):386
+sendRealGA4Event.ep.action @ pptr:evaluate;runBro…js%3A1383%3A37):700
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ [SWAP] Opened swap widget
+  POST https://pls.dexscreener.com/api/event 403 (Forbidden)
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):397
+sendRealGA4Event.ep.action @ pptr:evaluate;runBro…js%3A1383%3A37):700
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ [GA4] Event sent: swapWidget:open
+ [STATUS] Browser #1
+ [SESSIONS] Completed: 2 | Current ops: 8/19
+ [OPS] Total: 21
+ [WS] Open: 2 | Created: 2 | Pongs: 2
+ [EVENTS] GA: 5 | Plausible: 0 | Charts: 0 | Reactions: 0
+ [CURRENT] Session ID: sess_nuw2kc1uh_1757950299465
+  GET https://firebase.googleapis.com/v1alpha/projects/-/apps/1:592900011890:web:6c46b518a66d5656548feb/webConfig net::ERR_TIMED_OUT
+Pt @ index.esm-DL9hFo9G.js:1
+ve @ index.esm-DL9hFo9G.js:1
+ [2025-09-15T15:31:56.024Z]  @firebase/analytics: Failed to fetch this Firebase app's measurement ID from the server. Falling back to the measurement ID G-532KFVB4WT provided in the "measurementId" field in the local Firebase config. [Failed to fetch]
+ZVt @ pages_catch-all.D-F7dCJN.js:327
+warn @ pages_catch-all.D-F7dCJN.js:327
+ve @ index.esm-DL9hFo9G.js:1
+ WebSocket connection to 'wss://io.dexscreener.com/dex/screener/v5/pair/ethereum/0x0b3936ccaa286c430788883d8bca448bae779de1' failed: WebSocket opening handshake timed out
+Jre @ pages_catch-all.D-F7dCJN.js:317
+P @ pages_catch-all.D-F7dCJN.js:317
+(anonymous) @ pair-details-pair-overview-BMPHHc75.js:1
+t._trySubscribe @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+TF @ pages_catch-all.D-F7dCJN.js:168
+t.subscribe @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+c._next @ pages_catch-all.D-F7dCJN.js:168
+e.next @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+t._trySubscribe @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+TF @ pages_catch-all.D-F7dCJN.js:168
+t.subscribe @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+TF @ pages_catch-all.D-F7dCJN.js:168
+t.subscribe @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+TF @ pages_catch-all.D-F7dCJN.js:168
+t.subscribe @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+TF @ pages_catch-all.D-F7dCJN.js:168
+t.subscribe @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+c._next @ pages_catch-all.D-F7dCJN.js:168
+e.next @ pages_catch-all.D-F7dCJN.js:168
+e._subscribe @ pages_catch-all.D-F7dCJN.js:168
+t._trySubscribe @ pages_catch-all.D-F7dCJN.js:168
+e._trySubscribe @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+TF @ pages_catch-all.D-F7dCJN.js:168
+t.subscribe @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+TF @ pages_catch-all.D-F7dCJN.js:168
+t.subscribe @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+c._next @ pages_catch-all.D-F7dCJN.js:168
+e.next @ pages_catch-all.D-F7dCJN.js:168
+e._subscribe @ pages_catch-all.D-F7dCJN.js:168
+t._trySubscribe @ pages_catch-all.D-F7dCJN.js:168
+e._trySubscribe @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+TF @ pages_catch-all.D-F7dCJN.js:168
+t.subscribe @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+TF @ pages_catch-all.D-F7dCJN.js:168
+t.subscribe @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+TF @ pages_catch-all.D-F7dCJN.js:168
+t.subscribe @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:317
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+(anonymous) @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+  GET https://io.dexscreener.com/dex/chart/amm/v3/uniswap/bars/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?res=15&cb=290&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBro…js%3A1383%3A37):457
+ [CHART] Error - Status: 403
+ [WS] Pong sent from #1
+  GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+avro @ pages_catch-all.D-F7dCJN.js:317
+getLogs @ AMMPairDetailChart-DFJS8Ziv.js:1
+fetchHistory @ AMMPairDetailChart-DFJS8Ziv.js:1
+R @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+setInterval
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+kge @ pages_catch-all.D-F7dCJN.js:136
+ew @ pages_catch-all.D-F7dCJN.js:53
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kJe @ pages_catch-all.D-F7dCJN.js:136
+Ige @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+  GET https://io.dexscreener.com/dex/trending/v6?chainId=ethereum&timeframeKey=h6 403 (Forbidden)
+sendTrending @ pptr:evaluate;runBro…js%3A1383%3A37):639
+setInterval
+(anonymous) @ pptr:evaluate;runBro…js%3A1383%3A37):780
+  GET https://io.dexscreener.com/hype/reactions/dexPair/ethereum:0x0b3936ccAA286c430788883d8BCA448Bae779dE1 403 (Forbidden)
+sendReaction @ pptr:evaluate;runBro…js%3A1383%3A37):493
+setInterval
+(anonymous) @ pptr:evaluate;runBro…js%3A1383%3A37):762
+ [REACTIONS] Error - Status: 403
+  GET https://io.dexscreener.com/dex/chart/amm/v3/uniswap/bars/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?bbn=23328898&res=15&cb=196&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBro…js%3A1383%3A37):457
+ [CHART] Error - Status: 403
+ Refused to set unsafe header "sec-ch-ua"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):384
+actions @ pptr:evaluate;runBro…js%3A1383%3A37):719
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ Refused to set unsafe header "sec-ch-ua-mobile"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):385
+actions @ pptr:evaluate;runBro…js%3A1383%3A37):719
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ Refused to set unsafe header "sec-ch-ua-platform"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):386
+actions @ pptr:evaluate;runBro…js%3A1383%3A37):719
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ [LOGIN] Login initiated
+  POST https://pls.dexscreener.com/api/event 403 (Forbidden)
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):397
+actions @ pptr:evaluate;runBro…js%3A1383%3A37):719
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ WebSocket connection to 'wss://io.dexscreener.com/dex/screener/v5/pair/ethereum/0x0b3936ccaa286c430788883d8bca448bae779de1' failed: Error during WebSocket handshake: Unexpected response code: 403
+Jre @ pages_catch-all.D-F7dCJN.js:317
+P @ pages_catch-all.D-F7dCJN.js:317
+ [GA4] Event sent: user:login-initiated
+  GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+avro @ pages_catch-all.D-F7dCJN.js:317
+getLogs @ AMMPairDetailChart-DFJS8Ziv.js:1
+fetchHistory @ AMMPairDetailChart-DFJS8Ziv.js:1
+R @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+setInterval
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+kge @ pages_catch-all.D-F7dCJN.js:136
+ew @ pages_catch-all.D-F7dCJN.js:53
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kJe @ pages_catch-all.D-F7dCJN.js:136
+Ige @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+  GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?abn=23335929&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBro…js%3A1383%3A37):474
+  GET https://io.dexscreener.com/dex/chart/amm/v3/uniswap/bars/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?abn=23335898&res=15&cb=2&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBro…js%3A1383%3A37):457
+ [CHART] Error - Status: 403
+  GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+avro @ pages_catch-all.D-F7dCJN.js:317
+getLogs @ AMMPairDetailChart-DFJS8Ziv.js:1
+fetchHistory @ AMMPairDetailChart-DFJS8Ziv.js:1
+R @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+setInterval
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+kge @ pages_catch-all.D-F7dCJN.js:136
+ew @ pages_catch-all.D-F7dCJN.js:53
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kJe @ pages_catch-all.D-F7dCJN.js:136
+Ige @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+ WebSocket connection to 'wss://io.dexscreener.com/dex/screener/v5/pair/ethereum/0x0b3936ccaa286c430788883d8bca448bae779de1' failed: Error during WebSocket handshake: Unexpected response code: 403
+Jre @ pages_catch-all.D-F7dCJN.js:317
+P @ pages_catch-all.D-F7dCJN.js:317
+ Refused to set unsafe header "sec-ch-ua"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):384
+actions @ pptr:evaluate;runBro…js%3A1383%3A37):719
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ Refused to set unsafe header "sec-ch-ua-mobile"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):385
+actions @ pptr:evaluate;runBro…js%3A1383%3A37):719
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ Refused to set unsafe header "sec-ch-ua-platform"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):386
+actions @ pptr:evaluate;runBro…js%3A1383%3A37):719
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ [LOGIN] Login initiated
+  POST https://pls.dexscreener.com/api/event 403 (Forbidden)
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):397
+actions @ pptr:evaluate;runBro…js%3A1383%3A37):719
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ [GA4] Event sent: user:login-initiated
+  GET https://io.dexscreener.com/dex/chart/amm/v3/uniswap/bars/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?res=15&cb=277&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBro…js%3A1383%3A37):457
+ [CHART] Error - Status: 403
+  GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+avro @ pages_catch-all.D-F7dCJN.js:317
+getLogs @ AMMPairDetailChart-DFJS8Ziv.js:1
+fetchHistory @ AMMPairDetailChart-DFJS8Ziv.js:1
+R @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+setInterval
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+kge @ pages_catch-all.D-F7dCJN.js:136
+ew @ pages_catch-all.D-F7dCJN.js:53
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kJe @ pages_catch-all.D-F7dCJN.js:136
+Ige @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+ [WS] Pong sent from #2
+ WebSocket connection to 'wss://io.dexscreener.com/dex/screener/v5/pair/ethereum/0x0b3936ccaa286c430788883d8bca448bae779de1' failed: Error during WebSocket handshake: Unexpected response code: 403
+Jre @ pages_catch-all.D-F7dCJN.js:317
+P @ pages_catch-all.D-F7dCJN.js:317
+ [SESSION] Session ended: sess_nuw2kc1uh_1757950299465 | Duration: 34s | Operations: 19
+ [SESSION] New user session started: sess_1glc5kxrt_1757950333504 | Max ops: 16
+  GET https://io.dexscreener.com/hype/reactions/dexPair/ethereum:0x0b3936ccAA286c430788883d8BCA448Bae779dE1 403 (Forbidden)
+sendReaction @ pptr:evaluate;runBro…js%3A1383%3A37):493
+setInterval
+(anonymous) @ pptr:evaluate;runBro…js%3A1383%3A37):762
+ [REACTIONS] Error - Status: 403
+  GET https://io.dexscreener.com/dex/chart/amm/v3/uniswap/bars/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?res=15&cb=247&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBro…js%3A1383%3A37):457
+ [CHART] Error - Status: 403
+ Refused to set unsafe header "sec-ch-ua"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):384
+sendRealGA4Event.ep.chainId @ pptr:evaluate;runBro…js%3A1383%3A37):690
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ Refused to set unsafe header "sec-ch-ua-mobile"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):385
+sendRealGA4Event.ep.chainId @ pptr:evaluate;runBro…js%3A1383%3A37):690
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ Refused to set unsafe header "sec-ch-ua-platform"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):386
+sendRealGA4Event.ep.chainId @ pptr:evaluate;runBro…js%3A1383%3A37):690
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ [SOCIAL] Clicked discord
+  GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+avro @ pages_catch-all.D-F7dCJN.js:317
+getLogs @ AMMPairDetailChart-DFJS8Ziv.js:1
+fetchHistory @ AMMPairDetailChart-DFJS8Ziv.js:1
+R @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+setInterval
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+kge @ pages_catch-all.D-F7dCJN.js:136
+ew @ pages_catch-all.D-F7dCJN.js:53
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kJe @ pages_catch-all.D-F7dCJN.js:136
+Ige @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+  POST https://pls.dexscreener.com/api/event 403 (Forbidden)
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):397
+sendRealGA4Event.ep.chainId @ pptr:evaluate;runBro…js%3A1383%3A37):690
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ [GA4] Event sent: social_click
+ [SEARCH] Sent search requests
+  GET https://io.dexscreener.com/dex/search/spotlight/v8 403 (Forbidden)
+sendSearch @ pptr:evaluate;runBro…js%3A1383%3A37):566
+setInterval
+(anonymous) @ pptr:evaluate;runBro…js%3A1383%3A37):774
+ [SPOTLIGHT] Error - Status: 403
+  GET https://cfw.dexscreener.com/a/direct/search/native/coin-casino 403 (Forbidden)
+sendSearch @ pptr:evaluate;runBro…js%3A1383%3A37):619
+setInterval
+(anonymous) @ pptr:evaluate;runBro…js%3A1383%3A37):774
+  GET https://io.dexscreener.com/dex/search/v10/pairs?q=0xc5dc31e76a33609c1c0254cbc17a3b5d3df8fddd 403 (Forbidden)
+sendSearch @ pptr:evaluate;runBro…js%3A1383%3A37):595
+setInterval
+(anonymous) @ pptr:evaluate;runBro…js%3A1383%3A37):774
+ WebSocket connection to 'wss://io.dexscreener.com/dex/screener/v5/pair/ethereum/0x0b3936ccaa286c430788883d8bca448bae779de1' failed: Error during WebSocket handshake: Unexpected response code: 403
+Jre @ pages_catch-all.D-F7dCJN.js:317
+P @ pages_catch-all.D-F7dCJN.js:317
+  GET https://io.dexscreener.com/dex/chart/amm/v3/uniswap/bars/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?bbn=23328976&res=15&cb=153&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBro…js%3A1383%3A37):457
+ [CHART] Error - Status: 403
+  GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+avro @ pages_catch-all.D-F7dCJN.js:317
+getLogs @ AMMPairDetailChart-DFJS8Ziv.js:1
+fetchHistory @ AMMPairDetailChart-DFJS8Ziv.js:1
+R @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+setInterval
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+kge @ pages_catch-all.D-F7dCJN.js:136
+ew @ pages_catch-all.D-F7dCJN.js:53
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kJe @ pages_catch-all.D-F7dCJN.js:136
+Ige @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+ [WS] Pong sent from #1
+ Refused to set unsafe header "sec-ch-ua"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):384
+actions @ pptr:evaluate;runBro…js%3A1383%3A37):719
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ Refused to set unsafe header "sec-ch-ua-mobile"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):385
+actions @ pptr:evaluate;runBro…js%3A1383%3A37):719
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ [LOGIN] Login initiated
+ Refused to set unsafe header "sec-ch-ua-platform"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):386
+actions @ pptr:evaluate;runBro…js%3A1383%3A37):719
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+  POST https://pls.dexscreener.com/api/event 403 (Forbidden)
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):397
+actions @ pptr:evaluate;runBro…js%3A1383%3A37):719
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+  GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?abn=23336007&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBro…js%3A1383%3A37):474
+  GET https://io.dexscreener.com/dex/chart/amm/v3/uniswap/bars/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?abn=23335976&res=15&cb=2&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBro…js%3A1383%3A37):457
+ [CHART] Error - Status: 403
+ [GA4] Event sent: user:login-initiated
+ [STATUS] Browser #1
+ [SESSIONS] Completed: 3 | Current ops: 8/16
+ [OPS] Total: 40
+ [WS] Open: 2 | Created: 2 | Pongs: 5
+ [EVENTS] GA: 9 | Plausible: 0 | Charts: 0 | Reactions: 0
+ [CURRENT] Session ID: sess_1glc5kxrt_1757950333504
+  GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+avro @ pages_catch-all.D-F7dCJN.js:317
+getLogs @ AMMPairDetailChart-DFJS8Ziv.js:1
+fetchHistory @ AMMPairDetailChart-DFJS8Ziv.js:1
+R @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+setInterval
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+kge @ pages_catch-all.D-F7dCJN.js:136
+ew @ pages_catch-all.D-F7dCJN.js:53
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kJe @ pages_catch-all.D-F7dCJN.js:136
+Ige @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+ WebSocket connection to 'wss://io.dexscreener.com/dex/screener/v5/pair/ethereum/0x0b3936ccaa286c430788883d8bca448bae779de1' failed: Error during WebSocket handshake: Unexpected response code: 403
+Jre @ pages_catch-all.D-F7dCJN.js:317
+P @ pages_catch-all.D-F7dCJN.js:317
+  GET https://io.dexscreener.com/dex/trending/v6?chainId=ethereum&timeframeKey=h6 403 (Forbidden)
+sendTrending @ pptr:evaluate;runBro…js%3A1383%3A37):639
+setInterval
+(anonymous) @ pptr:evaluate;runBro…js%3A1383%3A37):780
+  GET https://io.dexscreener.com/dex/chart/amm/v3/uniswap/bars/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?res=15&cb=235&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBro…js%3A1383%3A37):457
+ [CHART] Error - Status: 403
+  GET https://io.dexscreener.com/hype/reactions/dexPair/ethereum:0x0b3936ccAA286c430788883d8BCA448Bae779dE1 403 (Forbidden)
+sendReaction @ pptr:evaluate;runBro…js%3A1383%3A37):493
+setInterval
+(anonymous) @ pptr:evaluate;runBro…js%3A1383%3A37):762
+ [REACTIONS] Error - Status: 403
+  GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+avro @ pages_catch-all.D-F7dCJN.js:317
+getLogs @ AMMPairDetailChart-DFJS8Ziv.js:1
+fetchHistory @ AMMPairDetailChart-DFJS8Ziv.js:1
+R @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+setInterval
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+kge @ pages_catch-all.D-F7dCJN.js:136
+ew @ pages_catch-all.D-F7dCJN.js:53
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kJe @ pages_catch-all.D-F7dCJN.js:136
+Ige @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+ [ADS] Sent all ad requests
+ Refused to set unsafe header "sec-ch-ua"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):384
+sendRealGA4Event.ep.chainId @ pptr:evaluate;runBro…js%3A1383%3A37):690
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ Refused to set unsafe header "sec-ch-ua-mobile"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):385
+sendRealGA4Event.ep.chainId @ pptr:evaluate;runBro…js%3A1383%3A37):690
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ Refused to set unsafe header "sec-ch-ua-platform"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):386
+sendRealGA4Event.ep.chainId @ pptr:evaluate;runBro…js%3A1383%3A37):690
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ [SOCIAL] Clicked discord
+  GET https://cfw.dexscreener.com/a/direct/pair/trending-bar/coin-casino 403 (Forbidden)
+sendAds @ pptr:evaluate;runBro…js%3A1383%3A37):535
+setInterval
+(anonymous) @ pptr:evaluate;runBro…js%3A1383%3A37):768
+  GET https://cfw.dexscreener.com/a/self-serve/548da728d49309c351e8 403 (Forbidden)
+sendAds @ pptr:evaluate;runBro…js%3A1383%3A37):547
+setInterval
+(anonymous) @ pptr:evaluate;runBro…js%3A1383%3A37):768
+  POST https://pls.dexscreener.com/api/event 403 (Forbidden)
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):397
+sendRealGA4Event.ep.chainId @ pptr:evaluate;runBro…js%3A1383%3A37):690
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ [GA4] Event sent: social_click
+  GET https://io.dexscreener.com/dex/chart/amm/v3/uniswap/bars/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?bbn=23328977&res=15&cb=141&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBro…js%3A1383%3A37):457
+ [CHART] Error - Status: 403
+ WebSocket connection to 'wss://io.dexscreener.com/dex/screener/v5/pair/ethereum/0x0b3936ccaa286c430788883d8bca448bae779de1' failed: Error during WebSocket handshake: Unexpected response code: 403
+Jre @ pages_catch-all.D-F7dCJN.js:317
+P @ pages_catch-all.D-F7dCJN.js:317
+  GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+avro @ pages_catch-all.D-F7dCJN.js:317
+getLogs @ AMMPairDetailChart-DFJS8Ziv.js:1
+fetchHistory @ AMMPairDetailChart-DFJS8Ziv.js:1
+R @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+setInterval
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+kge @ pages_catch-all.D-F7dCJN.js:136
+ew @ pages_catch-all.D-F7dCJN.js:53
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kJe @ pages_catch-all.D-F7dCJN.js:136
+Ige @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+ [SESSION] Session ended: sess_1glc5kxrt_1757950333504 | Duration: 23s | Operations: 16
+ [SESSION] New user session started: sess_igp7m6ydo_1757950356896 | Max ops: 11
+  GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?abn=23336008&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBro…js%3A1383%3A37):474
+  GET https://io.dexscreener.com/dex/chart/amm/v3/uniswap/bars/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?abn=23335977&res=15&cb=2&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBro…js%3A1383%3A37):457
+ [CHART] Error - Status: 403
+ Refused to set unsafe header "sec-ch-ua"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):384
+actions @ pptr:evaluate;runBro…js%3A1383%3A37):719
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ Refused to set unsafe header "sec-ch-ua-mobile"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):385
+actions @ pptr:evaluate;runBro…js%3A1383%3A37):719
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ Refused to set unsafe header "sec-ch-ua-platform"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):386
+actions @ pptr:evaluate;runBro…js%3A1383%3A37):719
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ [LOGIN] Login initiated
+ [WS] Pong sent from #2
+  POST https://pls.dexscreener.com/api/event 403 (Forbidden)
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):397
+actions @ pptr:evaluate;runBro…js%3A1383%3A37):719
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ [GA4] Event sent: user:login-initiated
+  GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+avro @ pages_catch-all.D-F7dCJN.js:317
+getLogs @ AMMPairDetailChart-DFJS8Ziv.js:1
+fetchHistory @ AMMPairDetailChart-DFJS8Ziv.js:1
+R @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+setInterval
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+kge @ pages_catch-all.D-F7dCJN.js:136
+ew @ pages_catch-all.D-F7dCJN.js:53
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kJe @ pages_catch-all.D-F7dCJN.js:136
+Ige @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+  GET https://io.dexscreener.com/dex/chart/amm/v3/uniswap/bars/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?res=15&cb=253&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBro…js%3A1383%3A37):457
+ [CHART] Error - Status: 403
+  GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+avro @ pages_catch-all.D-F7dCJN.js:317
+getLogs @ AMMPairDetailChart-DFJS8Ziv.js:1
+fetchHistory @ AMMPairDetailChart-DFJS8Ziv.js:1
+R @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+setInterval
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+kge @ pages_catch-all.D-F7dCJN.js:136
+ew @ pages_catch-all.D-F7dCJN.js:53
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kJe @ pages_catch-all.D-F7dCJN.js:136
+Ige @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+  GET https://io.dexscreener.com/hype/reactions/dexPair/ethereum:0x0b3936ccAA286c430788883d8BCA448Bae779dE1 403 (Forbidden)
+sendReaction @ pptr:evaluate;runBro…js%3A1383%3A37):493
+setInterval
+(anonymous) @ pptr:evaluate;runBro…js%3A1383%3A37):762
+ [REACTIONS] Error - Status: 403
+ Refused to set unsafe header "sec-ch-ua"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):384
+(anonymous) @ pptr:evaluate;runBro…js%3A1383%3A37):675
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ Refused to set unsafe header "sec-ch-ua-mobile"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):385
+(anonymous) @ pptr:evaluate;runBro…js%3A1383%3A37):675
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ Refused to set unsafe header "sec-ch-ua-platform"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):386
+(anonymous) @ pptr:evaluate;runBro…js%3A1383%3A37):675
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+  POST https://pls.dexscreener.com/api/event 403 (Forbidden)
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):397
+(anonymous) @ pptr:evaluate;runBro…js%3A1383%3A37):675
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ [GA4] Event sent: page_view
+  GET https://io.dexscreener.com/dex/chart/amm/v3/uniswap/bars/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?bbn=23328196&res=15&cb=159&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBro…js%3A1383%3A37):457
+ [CHART] Error - Status: 403
+ [WS] Pong sent from #1
+  GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+avro @ pages_catch-all.D-F7dCJN.js:317
+getLogs @ AMMPairDetailChart-DFJS8Ziv.js:1
+fetchHistory @ AMMPairDetailChart-DFJS8Ziv.js:1
+R @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+setInterval
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+kge @ pages_catch-all.D-F7dCJN.js:136
+ew @ pages_catch-all.D-F7dCJN.js:53
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kJe @ pages_catch-all.D-F7dCJN.js:136
+Ige @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+  GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?abn=23335227&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBro…js%3A1383%3A37):474
+  GET https://io.dexscreener.com/dex/chart/amm/v3/uniswap/bars/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?abn=23335196&res=15&cb=2&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBro…js%3A1383%3A37):457
+ [CHART] Error - Status: 403
+  GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+avro @ pages_catch-all.D-F7dCJN.js:317
+getLogs @ AMMPairDetailChart-DFJS8Ziv.js:1
+fetchHistory @ AMMPairDetailChart-DFJS8Ziv.js:1
+R @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+setInterval
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+kge @ pages_catch-all.D-F7dCJN.js:136
+ew @ pages_catch-all.D-F7dCJN.js:53
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kJe @ pages_catch-all.D-F7dCJN.js:136
+Ige @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+ Refused to set unsafe header "sec-ch-ua"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):384
+(anonymous) @ pptr:evaluate;runBro…js%3A1383%3A37):675
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ Refused to set unsafe header "sec-ch-ua-mobile"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):385
+(anonymous) @ pptr:evaluate;runBro…js%3A1383%3A37):675
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ Refused to set unsafe header "sec-ch-ua-platform"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):386
+(anonymous) @ pptr:evaluate;runBro…js%3A1383%3A37):675
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+  POST https://pls.dexscreener.com/api/event 403 (Forbidden)
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):397
+(anonymous) @ pptr:evaluate;runBro…js%3A1383%3A37):675
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ [GA4] Event sent: page_view
+ [SESSION] Session ended: sess_igp7m6ydo_1757950356896 | Duration: 17s | Operations: 11
+ [SESSION] New user session started: sess_cs7w6wsdr_1757950374889 | Max ops: 8
+ [STATUS] Browser #1
+ [SESSIONS] Completed: 5 | Current ops: 0/8
+ [OPS] Total: 59
+ [WS] Open: 2 | Created: 2 | Pongs: 7
+ [EVENTS] GA: 13 | Plausible: 0 | Charts: 0 | Reactions: 0
+ [CURRENT] Session ID: sess_cs7w6wsdr_1757950374889
+  GET https://io.dexscreener.com/dex/chart/amm/v3/uniswap/bars/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?res=15&cb=231&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBro…js%3A1383%3A37):457
+ [CHART] Error - Status: 403
+  GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+avro @ pages_catch-all.D-F7dCJN.js:317
+getLogs @ AMMPairDetailChart-DFJS8Ziv.js:1
+fetchHistory @ AMMPairDetailChart-DFJS8Ziv.js:1
+R @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+setInterval
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+kge @ pages_catch-all.D-F7dCJN.js:136
+ew @ pages_catch-all.D-F7dCJN.js:53
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kJe @ pages_catch-all.D-F7dCJN.js:136
+Ige @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+  GET https://io.dexscreener.com/dex/trending/v6?chainId=ethereum&timeframeKey=h6 403 (Forbidden)
+sendTrending @ pptr:evaluate;runBro…js%3A1383%3A37):639
+setInterval
+(anonymous) @ pptr:evaluate;runBro…js%3A1383%3A37):780
+  GET https://io.dexscreener.com/dex/chart/amm/v3/uniswap/bars/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?res=15&cb=251&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBro…js%3A1383%3A37):457
+ [CHART] Error - Status: 403
+ Refused to set unsafe header "sec-ch-ua"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):384
+actions @ pptr:evaluate;runBro…js%3A1383%3A37):719
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ Refused to set unsafe header "sec-ch-ua-mobile"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):385
+actions @ pptr:evaluate;runBro…js%3A1383%3A37):719
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ Refused to set unsafe header "sec-ch-ua-platform"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):386
+actions @ pptr:evaluate;runBro…js%3A1383%3A37):719
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ [LOGIN] Login initiated
+  POST https://pls.dexscreener.com/api/event 403 (Forbidden)
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):397
+actions @ pptr:evaluate;runBro…js%3A1383%3A37):719
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ [SEARCH] Sent search requests
+ [GA4] Event sent: user:login-initiated
+  GET https://io.dexscreener.com/dex/search/v10/pairs?q=0x44ad66fca8b94d11cabd267a4d1e16e870d2762d 403 (Forbidden)
+sendSearch @ pptr:evaluate;runBro…js%3A1383%3A37):595
+setInterval
+(anonymous) @ pptr:evaluate;runBro…js%3A1383%3A37):774
+  GET https://cfw.dexscreener.com/a/direct/search/native/coin-casino 403 (Forbidden)
+sendSearch @ pptr:evaluate;runBro…js%3A1383%3A37):619
+setInterval
+(anonymous) @ pptr:evaluate;runBro…js%3A1383%3A37):774
+  GET https://io.dexscreener.com/hype/reactions/dexPair/ethereum:0x0b3936ccAA286c430788883d8BCA448Bae779dE1 403 (Forbidden)
+sendReaction @ pptr:evaluate;runBro…js%3A1383%3A37):493
+setInterval
+(anonymous) @ pptr:evaluate;runBro…js%3A1383%3A37):762
+ [REACTIONS] Error - Status: 403
+  GET https://io.dexscreener.com/dex/search/spotlight/v8 403 (Forbidden)
+sendSearch @ pptr:evaluate;runBro…js%3A1383%3A37):566
+setInterval
+(anonymous) @ pptr:evaluate;runBro…js%3A1383%3A37):774
+ [SPOTLIGHT] Error - Status: 403
+  GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+avro @ pages_catch-all.D-F7dCJN.js:317
+getLogs @ AMMPairDetailChart-DFJS8Ziv.js:1
+fetchHistory @ AMMPairDetailChart-DFJS8Ziv.js:1
+R @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+setInterval
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+kge @ pages_catch-all.D-F7dCJN.js:136
+ew @ pages_catch-all.D-F7dCJN.js:53
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kJe @ pages_catch-all.D-F7dCJN.js:136
+Ige @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+ [WS] Pong sent from #2
+  GET https://io.dexscreener.com/dex/chart/amm/v3/uniswap/bars/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?bbn=23329064&res=15&cb=157&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBro…js%3A1383%3A37):457
+ [CHART] Error - Status: 403
+  GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+avro @ pages_catch-all.D-F7dCJN.js:317
+getLogs @ AMMPairDetailChart-DFJS8Ziv.js:1
+fetchHistory @ AMMPairDetailChart-DFJS8Ziv.js:1
+R @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+setInterval
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+kge @ pages_catch-all.D-F7dCJN.js:136
+ew @ pages_catch-all.D-F7dCJN.js:53
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kJe @ pages_catch-all.D-F7dCJN.js:136
+Ige @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+ [SESSION] Session ended: sess_cs7w6wsdr_1757950374889 | Duration: 12s | Operations: 8
+ [SESSION] New user session started: sess_69fzzwqkl_1757950386921 | Max ops: 12
+ [SESSION] Rotated to new session
+ Refused to set unsafe header "sec-ch-ua"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):384
+sendRealGA4Event._c @ pptr:evaluate;runBro…js%3A1383%3A37):711
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ Refused to set unsafe header "sec-ch-ua-mobile"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):385
+sendRealGA4Event._c @ pptr:evaluate;runBro…js%3A1383%3A37):711
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ Refused to set unsafe header "sec-ch-ua-platform"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):386
+sendRealGA4Event._c @ pptr:evaluate;runBro…js%3A1383%3A37):711
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ [WATCHLIST] Added to watchlist
+  POST https://pls.dexscreener.com/api/event 403 (Forbidden)
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):397
+sendRealGA4Event._c @ pptr:evaluate;runBro…js%3A1383%3A37):711
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ [GA4] Event sent: toggleWatchlist
+ WebSocket connection to 'wss://io.dexscreener.com/dex/screener/v5/pair/ethereum/0x0b3936ccaa286c430788883d8bca448bae779de1' failed: WebSocket opening handshake timed out
+Jre @ pages_catch-all.D-F7dCJN.js:317
+P @ pages_catch-all.D-F7dCJN.js:317
+  GET https://io.dexscreener.com/dex/chart/amm/v3/uniswap/bars/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?res=15&cb=313&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBro…js%3A1383%3A37):457
+ [CHART] Error - Status: 403
+  GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+avro @ pages_catch-all.D-F7dCJN.js:317
+getLogs @ AMMPairDetailChart-DFJS8Ziv.js:1
+fetchHistory @ AMMPairDetailChart-DFJS8Ziv.js:1
+R @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+setInterval
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+kge @ pages_catch-all.D-F7dCJN.js:136
+ew @ pages_catch-all.D-F7dCJN.js:53
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kJe @ pages_catch-all.D-F7dCJN.js:136
+Ige @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+ [WS] Pong sent from #1
+  GET https://io.dexscreener.com/dex/chart/amm/v3/uniswap/bars/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?bbn=23328921&res=15&cb=219&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBro…js%3A1383%3A37):457
+ [CHART] Error - Status: 403
+ WebSocket connection to 'wss://io.dexscreener.com/dex/screener/v5/pair/ethereum/0x0b3936ccaa286c430788883d8bca448bae779de1' failed: Error during WebSocket handshake: Unexpected response code: 403
+Jre @ pages_catch-all.D-F7dCJN.js:317
+P @ pages_catch-all.D-F7dCJN.js:317
+ Refused to set unsafe header "sec-ch-ua"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):384
+sendRealGA4Event.ep.chainId @ pptr:evaluate;runBro…js%3A1383%3A37):690
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ Refused to set unsafe header "sec-ch-ua-mobile"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):385
+sendRealGA4Event.ep.chainId @ pptr:evaluate;runBro…js%3A1383%3A37):690
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ Refused to set unsafe header "sec-ch-ua-platform"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):386
+sendRealGA4Event.ep.chainId @ pptr:evaluate;runBro…js%3A1383%3A37):690
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ [SOCIAL] Clicked telegram
+  POST https://pls.dexscreener.com/api/event 403 (Forbidden)
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):397
+sendRealGA4Event.ep.chainId @ pptr:evaluate;runBro…js%3A1383%3A37):690
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ [GA4] Event sent: social_click
+  GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+avro @ pages_catch-all.D-F7dCJN.js:317
+getLogs @ AMMPairDetailChart-DFJS8Ziv.js:1
+fetchHistory @ AMMPairDetailChart-DFJS8Ziv.js:1
+R @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+setInterval
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+kge @ pages_catch-all.D-F7dCJN.js:136
+ew @ pages_catch-all.D-F7dCJN.js:53
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kJe @ pages_catch-all.D-F7dCJN.js:136
+Ige @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+  GET https://io.dexscreener.com/hype/reactions/dexPair/ethereum:0x0b3936ccAA286c430788883d8BCA448Bae779dE1 403 (Forbidden)
+sendReaction @ pptr:evaluate;runBro…js%3A1383%3A37):493
+setInterval
+(anonymous) @ pptr:evaluate;runBro…js%3A1383%3A37):762
+ [REACTIONS] Error - Status: 403
+  GET https://io.dexscreener.com/dex/chart/amm/v3/uniswap/bars/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?abn=23335921&res=15&cb=2&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBro…js%3A1383%3A37):457
+ [CHART] Error - Status: 403
+  GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?abn=23335952&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBro…js%3A1383%3A37):474
+  GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+avro @ pages_catch-all.D-F7dCJN.js:317
+getLogs @ AMMPairDetailChart-DFJS8Ziv.js:1
+fetchHistory @ AMMPairDetailChart-DFJS8Ziv.js:1
+R @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+setInterval
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+kge @ pages_catch-all.D-F7dCJN.js:136
+ew @ pages_catch-all.D-F7dCJN.js:53
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kJe @ pages_catch-all.D-F7dCJN.js:136
+Ige @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+ WebSocket connection to 'wss://io.dexscreener.com/dex/screener/v5/pair/ethereum/0x0b3936ccaa286c430788883d8bca448bae779de1' failed: Error during WebSocket handshake: Unexpected response code: 403
+Jre @ pages_catch-all.D-F7dCJN.js:317
+P @ pages_catch-all.D-F7dCJN.js:317
+ Refused to set unsafe header "sec-ch-ua"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):384
+sendRealGA4Event.ep.chainId @ pptr:evaluate;runBro…js%3A1383%3A37):690
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ Refused to set unsafe header "sec-ch-ua-mobile"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):385
+sendRealGA4Event.ep.chainId @ pptr:evaluate;runBro…js%3A1383%3A37):690
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ Refused to set unsafe header "sec-ch-ua-platform"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):386
+sendRealGA4Event.ep.chainId @ pptr:evaluate;runBro…js%3A1383%3A37):690
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ [SOCIAL] Clicked telegram
+  POST https://pls.dexscreener.com/api/event 403 (Forbidden)
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):397
+sendRealGA4Event.ep.chainId @ pptr:evaluate;runBro…js%3A1383%3A37):690
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ [GA4] Event sent: social_click
+  GET https://io.dexscreener.com/dex/chart/amm/v3/uniswap/bars/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?res=15&cb=288&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBro…js%3A1383%3A37):457
+ [CHART] Error - Status: 403
+  GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+avro @ pages_catch-all.D-F7dCJN.js:317
+getLogs @ AMMPairDetailChart-DFJS8Ziv.js:1
+fetchHistory @ AMMPairDetailChart-DFJS8Ziv.js:1
+R @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+setInterval
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+kge @ pages_catch-all.D-F7dCJN.js:136
+ew @ pages_catch-all.D-F7dCJN.js:53
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kJe @ pages_catch-all.D-F7dCJN.js:136
+Ige @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+ [STATUS] Browser #1
+ [SESSIONS] Completed: 6 | Current ops: 10/12
+ [OPS] Total: 77
+ [WS] Open: 2 | Created: 2 | Pongs: 9
+ [EVENTS] GA: 17 | Plausible: 0 | Charts: 0 | Reactions: 0
+ [CURRENT] Session ID: sess_69fzzwqkl_1757950386921
+ WebSocket connection to 'wss://io.dexscreener.com/dex/screener/v5/pair/ethereum/0x0b3936ccaa286c430788883d8bca448bae779de1' failed: Error during WebSocket handshake: Unexpected response code: 403
+Jre @ pages_catch-all.D-F7dCJN.js:317
+P @ pages_catch-all.D-F7dCJN.js:317
+  GET https://io.dexscreener.com/dex/chart/amm/v3/uniswap/bars/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?bbn=23328934&res=15&cb=194&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBro…js%3A1383%3A37):457
+ [CHART] Error - Status: 403
+ [WS] Pong sent from #2
+ [SESSION] Session ended: sess_69fzzwqkl_1757950386921 | Duration: 20s | Operations: 12
+ [SESSION] New user session started: sess_3f00mjlan_1757950407889 | Max ops: 14
+  GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+avro @ pages_catch-all.D-F7dCJN.js:317
+getLogs @ AMMPairDetailChart-DFJS8Ziv.js:1
+fetchHistory @ AMMPairDetailChart-DFJS8Ziv.js:1
+R @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+setInterval
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+kge @ pages_catch-all.D-F7dCJN.js:136
+ew @ pages_catch-all.D-F7dCJN.js:53
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kJe @ pages_catch-all.D-F7dCJN.js:136
+Ige @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+  GET https://io.dexscreener.com/dex/trending/v6?chainId=ethereum&timeframeKey=h6 403 (Forbidden)
+sendTrending @ pptr:evaluate;runBro…js%3A1383%3A37):639
+setInterval
+(anonymous) @ pptr:evaluate;runBro…js%3A1383%3A37):780
+ Refused to set unsafe header "sec-ch-ua"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):384
+sendRealGA4Event.ep.chainId @ pptr:evaluate;runBro…js%3A1383%3A37):690
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ Refused to set unsafe header "sec-ch-ua-mobile"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):385
+sendRealGA4Event.ep.chainId @ pptr:evaluate;runBro…js%3A1383%3A37):690
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ Refused to set unsafe header "sec-ch-ua-platform"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):386
+sendRealGA4Event.ep.chainId @ pptr:evaluate;runBro…js%3A1383%3A37):690
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ [SOCIAL] Clicked telegram
+  POST https://pls.dexscreener.com/api/event 403 (Forbidden)
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):397
+sendRealGA4Event.ep.chainId @ pptr:evaluate;runBro…js%3A1383%3A37):690
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ [GA4] Event sent: social_click
+ [ADS] Sent all ad requests
+  GET https://cfw.dexscreener.com/a/direct/pair/trending-bar/coin-casino 403 (Forbidden)
+sendAds @ pptr:evaluate;runBro…js%3A1383%3A37):535
+setInterval
+(anonymous) @ pptr:evaluate;runBro…js%3A1383%3A37):768
+  GET https://cfw.dexscreener.com/a/self-serve/4b35287c3573686ee2ca 403 (Forbidden)
+sendAds @ pptr:evaluate;runBro…js%3A1383%3A37):547
+setInterval
+(anonymous) @ pptr:evaluate;runBro…js%3A1383%3A37):768
+  GET https://io.dexscreener.com/dex/chart/amm/v3/uniswap/bars/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?res=15&cb=269&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBro…js%3A1383%3A37):457
+ [CHART] Error - Status: 403
+  GET https://io.dexscreener.com/hype/reactions/dexPair/ethereum:0x0b3936ccAA286c430788883d8BCA448Bae779dE1 403 (Forbidden)
+sendReaction @ pptr:evaluate;runBro…js%3A1383%3A37):493
+setInterval
+(anonymous) @ pptr:evaluate;runBro…js%3A1383%3A37):762
+ [REACTIONS] Error - Status: 403
+  GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+avro @ pages_catch-all.D-F7dCJN.js:317
+getLogs @ AMMPairDetailChart-DFJS8Ziv.js:1
+fetchHistory @ AMMPairDetailChart-DFJS8Ziv.js:1
+R @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+setInterval
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+kge @ pages_catch-all.D-F7dCJN.js:136
+ew @ pages_catch-all.D-F7dCJN.js:53
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kJe @ pages_catch-all.D-F7dCJN.js:136
+Ige @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+  GET https://io.dexscreener.com/dex/chart/amm/v3/uniswap/bars/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?bbn=23328219&res=15&cb=175&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBro…js%3A1383%3A37):457
+ [CHART] Error - Status: 403
+ Refused to set unsafe header "sec-ch-ua"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):384
+sendRealGA4Event.ep.action @ pptr:evaluate;runBro…js%3A1383%3A37):700
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ Refused to set unsafe header "sec-ch-ua-mobile"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):385
+sendRealGA4Event.ep.action @ pptr:evaluate;runBro…js%3A1383%3A37):700
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ Refused to set unsafe header "sec-ch-ua-platform"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):386
+sendRealGA4Event.ep.action @ pptr:evaluate;runBro…js%3A1383%3A37):700
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ [SWAP] Opened swap widget
+  POST https://pls.dexscreener.com/api/event 403 (Forbidden)
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):397
+sendRealGA4Event.ep.action @ pptr:evaluate;runBro…js%3A1383%3A37):700
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ [GA4] Event sent: swapWidget:open
+ [WS] Pong sent from #1
+  GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+avro @ pages_catch-all.D-F7dCJN.js:317
+getLogs @ AMMPairDetailChart-DFJS8Ziv.js:1
+fetchHistory @ AMMPairDetailChart-DFJS8Ziv.js:1
+R @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+setInterval
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+kge @ pages_catch-all.D-F7dCJN.js:136
+ew @ pages_catch-all.D-F7dCJN.js:53
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kJe @ pages_catch-all.D-F7dCJN.js:136
+Ige @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+  GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?abn=23335250&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBro…js%3A1383%3A37):474
+  GET https://io.dexscreener.com/dex/chart/amm/v3/uniswap/bars/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?abn=23335219&res=15&cb=2&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBro…js%3A1383%3A37):457
+ [CHART] Error - Status: 403
+  GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+avro @ pages_catch-all.D-F7dCJN.js:317
+getLogs @ AMMPairDetailChart-DFJS8Ziv.js:1
+fetchHistory @ AMMPairDetailChart-DFJS8Ziv.js:1
+R @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+setInterval
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+kge @ pages_catch-all.D-F7dCJN.js:136
+ew @ pages_catch-all.D-F7dCJN.js:53
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kJe @ pages_catch-all.D-F7dCJN.js:136
+Ige @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+ Refused to set unsafe header "sec-ch-ua"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):384
+actions @ pptr:evaluate;runBro…js%3A1383%3A37):719
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ Refused to set unsafe header "sec-ch-ua-mobile"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):385
+actions @ pptr:evaluate;runBro…js%3A1383%3A37):719
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ Refused to set unsafe header "sec-ch-ua-platform"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):386
+actions @ pptr:evaluate;runBro…js%3A1383%3A37):719
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ [LOGIN] Login initiated
+  POST https://pls.dexscreener.com/api/event 403 (Forbidden)
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):397
+actions @ pptr:evaluate;runBro…js%3A1383%3A37):719
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ [SEARCH] Sent search requests
+  GET https://io.dexscreener.com/dex/search/v10/pairs?q=0x6694d64ece2ade0065317232203c75fc4eecf9df 403 (Forbidden)
+sendSearch @ pptr:evaluate;runBro…js%3A1383%3A37):595
+setInterval
+(anonymous) @ pptr:evaluate;runBro…js%3A1383%3A37):774
+  GET https://io.dexscreener.com/dex/search/spotlight/v8 403 (Forbidden)
+sendSearch @ pptr:evaluate;runBro…js%3A1383%3A37):566
+setInterval
+(anonymous) @ pptr:evaluate;runBro…js%3A1383%3A37):774
+ [SPOTLIGHT] Error - Status: 403
+  GET https://cfw.dexscreener.com/a/direct/search/native/coin-casino 403 (Forbidden)
+sendSearch @ pptr:evaluate;runBro…js%3A1383%3A37):619
+setInterval
+(anonymous) @ pptr:evaluate;runBro…js%3A1383%3A37):774
+ [GA4] Event sent: user:login-initiated
+  GET https://io.dexscreener.com/dex/chart/amm/v3/uniswap/bars/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?res=15&cb=232&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBro…js%3A1383%3A37):457
+ [CHART] Error - Status: 403
+  GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+avro @ pages_catch-all.D-F7dCJN.js:317
+getLogs @ AMMPairDetailChart-DFJS8Ziv.js:1
+fetchHistory @ AMMPairDetailChart-DFJS8Ziv.js:1
+R @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+setInterval
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+kge @ pages_catch-all.D-F7dCJN.js:136
+ew @ pages_catch-all.D-F7dCJN.js:53
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kJe @ pages_catch-all.D-F7dCJN.js:136
+Ige @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+ [SESSION] Session ended: sess_3f00mjlan_1757950407889 | Duration: 18s | Operations: 14
+ [SESSION] New user session started: sess_3dci9m8r1_1757950426739 | Max ops: 17
+  GET https://io.dexscreener.com/hype/reactions/dexPair/ethereum:0x0b3936ccAA286c430788883d8BCA448Bae779dE1 403 (Forbidden)
+sendReaction @ pptr:evaluate;runBro…js%3A1383%3A37):493
+setInterval
+(anonymous) @ pptr:evaluate;runBro…js%3A1383%3A37):762
+ [REACTIONS] Error - Status: 403
+  GET https://io.dexscreener.com/dex/chart/amm/v3/uniswap/bars/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?res=15&cb=280&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBro…js%3A1383%3A37):457
+ [CHART] Error - Status: 403
+  GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+avro @ pages_catch-all.D-F7dCJN.js:317
+getLogs @ AMMPairDetailChart-DFJS8Ziv.js:1
+fetchHistory @ AMMPairDetailChart-DFJS8Ziv.js:1
+R @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+setInterval
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+kge @ pages_catch-all.D-F7dCJN.js:136
+ew @ pages_catch-all.D-F7dCJN.js:53
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kJe @ pages_catch-all.D-F7dCJN.js:136
+Ige @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+  GET https://io.dexscreener.com/dex/chart/amm/v3/uniswap/bars/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?bbn=23328208&res=15&cb=186&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBro…js%3A1383%3A37):457
+socials @ pptr:evaluate;runBro…js%3A1383%3A37):678
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ [CHART] Error - Status: 403
+ [GA4] Event sent: chart_interaction
+ [WS] Pong sent from #2
+  GET https://io.dexscreener.com/dex/chart/amm/v3/uniswap/bars/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?abn=23335208&res=15&cb=2&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBro…js%3A1383%3A37):457
+ [CHART] Error - Status: 403
+  GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?abn=23335239&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBro…js%3A1383%3A37):474
+ [STATUS] Browser #1
+ [SESSIONS] Completed: 8 | Current ops: 4/17
+ [OPS] Total: 97
+ [WS] Open: 2 | Created: 2 | Pongs: 12
+ [EVENTS] GA: 21 | Plausible: 0 | Charts: 0 | Reactions: 0
+ [CURRENT] Session ID: sess_3dci9m8r1_1757950426739
+  GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+avro @ pages_catch-all.D-F7dCJN.js:317
+getLogs @ AMMPairDetailChart-DFJS8Ziv.js:1
+fetchHistory @ AMMPairDetailChart-DFJS8Ziv.js:1
+R @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+setInterval
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+kge @ pages_catch-all.D-F7dCJN.js:136
+ew @ pages_catch-all.D-F7dCJN.js:53
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kJe @ pages_catch-all.D-F7dCJN.js:136
+Ige @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+ Refused to set unsafe header "sec-ch-ua"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):384
+sendRealGA4Event._c @ pptr:evaluate;runBro…js%3A1383%3A37):711
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ Refused to set unsafe header "sec-ch-ua-mobile"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):385
+sendRealGA4Event._c @ pptr:evaluate;runBro…js%3A1383%3A37):711
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ Refused to set unsafe header "sec-ch-ua-platform"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):386
+sendRealGA4Event._c @ pptr:evaluate;runBro…js%3A1383%3A37):711
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ [WATCHLIST] Added to watchlist
+  GET https://io.dexscreener.com/dex/trending/v6?chainId=ethereum&timeframeKey=h6 403 (Forbidden)
+sendTrending @ pptr:evaluate;runBro…js%3A1383%3A37):639
+setInterval
+(anonymous) @ pptr:evaluate;runBro…js%3A1383%3A37):780
+  GET https://io.dexscreener.com/dex/chart/amm/v3/uniswap/bars/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?res=15&cb=255&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBro…js%3A1383%3A37):457
+ [CHART] Error - Status: 403
+  POST https://pls.dexscreener.com/api/event 403 (Forbidden)
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):397
+sendRealGA4Event._c @ pptr:evaluate;runBro…js%3A1383%3A37):711
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ [GA4] Event sent: toggleWatchlist
+  GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+avro @ pages_catch-all.D-F7dCJN.js:317
+getLogs @ AMMPairDetailChart-DFJS8Ziv.js:1
+fetchHistory @ AMMPairDetailChart-DFJS8Ziv.js:1
+R @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+setInterval
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+kge @ pages_catch-all.D-F7dCJN.js:136
+ew @ pages_catch-all.D-F7dCJN.js:53
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kJe @ pages_catch-all.D-F7dCJN.js:136
+Ige @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+ WebSocket connection to 'wss://io.dexscreener.com/dex/screener/v5/pair/ethereum/0x0b3936ccaa286c430788883d8bca448bae779de1' failed: WebSocket opening handshake timed out
+Jre @ pages_catch-all.D-F7dCJN.js:317
+P @ pages_catch-all.D-F7dCJN.js:317
+ [WS] Pong sent from #1
+  GET https://io.dexscreener.com/hype/reactions/dexPair/ethereum:0x0b3936ccAA286c430788883d8BCA448Bae779dE1 403 (Forbidden)
+sendReaction @ pptr:evaluate;runBro…js%3A1383%3A37):493
+setInterval
+(anonymous) @ pptr:evaluate;runBro…js%3A1383%3A37):762
+ [REACTIONS] Error - Status: 403
+  GET https://io.dexscreener.com/dex/chart/amm/v3/uniswap/bars/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?bbn=23328235&res=15&cb=161&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBro…js%3A1383%3A37):457
+ [CHART] Error - Status: 403
+  GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+avro @ pages_catch-all.D-F7dCJN.js:317
+getLogs @ AMMPairDetailChart-DFJS8Ziv.js:1
+fetchHistory @ AMMPairDetailChart-DFJS8Ziv.js:1
+R @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+setInterval
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+kge @ pages_catch-all.D-F7dCJN.js:136
+ew @ pages_catch-all.D-F7dCJN.js:53
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kJe @ pages_catch-all.D-F7dCJN.js:136
+Ige @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+ Refused to set unsafe header "sec-ch-ua"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):384
+sendRealGA4Event.ep.chainId @ pptr:evaluate;runBro…js%3A1383%3A37):690
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ Refused to set unsafe header "sec-ch-ua-mobile"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):385
+sendRealGA4Event.ep.chainId @ pptr:evaluate;runBro…js%3A1383%3A37):690
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ Refused to set unsafe header "sec-ch-ua-platform"
+sendPlausibleEvent @ pptr:evaluate;runBro…js%3A1383%3A37):386
+sendRealGA4Event.ep.chainId @ pptr:evaluate;runBro…js%3A1383%3A37):690
+simulateUserAction @ pptr:evaluate;runBro…js%3A1383%3A37):725
+ [SOCIAL] Clicked website
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):397 
+        
+        
+       POST https://pls.dexscreener.com/api/event 403 (Forbidden)
+sendPlausibleEvent @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):397
+sendRealGA4Event.ep.chainId @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):690
+simulateUserAction @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):725
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):353 [GA4] Event sent: social_click
+pages_catch-all.D-F7dCJN.js:317 WebSocket connection to 'wss://io.dexscreener.com/dex/screener/v5/pair/ethereum/0x0b3936ccaa286c430788883d8bca448bae779de1' failed: Error during WebSocket handshake: Unexpected response code: 403
+Jre @ pages_catch-all.D-F7dCJN.js:317
+P @ pages_catch-all.D-F7dCJN.js:317
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):457 
+        
+        
+       GET https://io.dexscreener.com/dex/chart/amm/v3/uniswap/bars/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?abn=23335235&res=15&cb=2&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):457
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):466 [CHART] Error - Status: 403
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):474 
+        
+        
+       GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?abn=23335266&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):474
+pages_catch-all.D-F7dCJN.js:317 
+        
+        
+       GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+avro @ pages_catch-all.D-F7dCJN.js:317
+getLogs @ AMMPairDetailChart-DFJS8Ziv.js:1
+fetchHistory @ AMMPairDetailChart-DFJS8Ziv.js:1
+R @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+setInterval
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+kge @ pages_catch-all.D-F7dCJN.js:136
+ew @ pages_catch-all.D-F7dCJN.js:53
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kJe @ pages_catch-all.D-F7dCJN.js:136
+Ige @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):457 
+        
+        
+       GET https://io.dexscreener.com/dex/chart/amm/v3/uniswap/bars/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?res=15&cb=218&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):457
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):466 [CHART] Error - Status: 403
+pages_catch-all.D-F7dCJN.js:317 WebSocket connection to 'wss://io.dexscreener.com/dex/screener/v5/pair/ethereum/0x0b3936ccaa286c430788883d8bca448bae779de1' failed: Error during WebSocket handshake: Unexpected response code: 403
+Jre @ pages_catch-all.D-F7dCJN.js:317
+P @ pages_catch-all.D-F7dCJN.js:317
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):384 Refused to set unsafe header "sec-ch-ua"
+sendPlausibleEvent @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):384
+actions @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):719
+simulateUserAction @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):725
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):385 Refused to set unsafe header "sec-ch-ua-mobile"
+sendPlausibleEvent @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):385
+actions @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):719
+simulateUserAction @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):725
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):386 Refused to set unsafe header "sec-ch-ua-platform"
+sendPlausibleEvent @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):386
+actions @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):719
+simulateUserAction @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):725
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):720 [LOGIN] Login initiated
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):397 
+        
+        
+       POST https://pls.dexscreener.com/api/event 403 (Forbidden)
+sendPlausibleEvent @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):397
+actions @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):719
+simulateUserAction @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):725
+pages_catch-all.D-F7dCJN.js:317 
+        
+        
+       GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+avro @ pages_catch-all.D-F7dCJN.js:317
+getLogs @ AMMPairDetailChart-DFJS8Ziv.js:1
+fetchHistory @ AMMPairDetailChart-DFJS8Ziv.js:1
+R @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+setInterval
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+kge @ pages_catch-all.D-F7dCJN.js:136
+ew @ pages_catch-all.D-F7dCJN.js:53
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kJe @ pages_catch-all.D-F7dCJN.js:136
+Ige @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):353 [GA4] Event sent: user:login-initiated
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):175 [SESSION] Session ended: sess_3dci9m8r1_1757950426739 | Duration: 29s | Operations: 17
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):148 [SESSION] New user session started: sess_9i8kn30jn_1757950455888 | Max ops: 18
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):457 
+        
+        
+       GET https://io.dexscreener.com/dex/chart/amm/v3/uniswap/bars/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?bbn=23328263&res=15&cb=124&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):457
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):466 [CHART] Error - Status: 403
+pages_catch-all.D-F7dCJN.js:317 WebSocket connection to 'wss://io.dexscreener.com/dex/screener/v5/pair/ethereum/0x0b3936ccaa286c430788883d8bca448bae779de1' failed: Establishing a tunnel via proxy server failed.
+Jre @ pages_catch-all.D-F7dCJN.js:317
+P @ pages_catch-all.D-F7dCJN.js:317
+pages_catch-all.D-F7dCJN.js:317 
+        
+        
+       GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+avro @ pages_catch-all.D-F7dCJN.js:317
+getLogs @ AMMPairDetailChart-DFJS8Ziv.js:1
+fetchHistory @ AMMPairDetailChart-DFJS8Ziv.js:1
+R @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+setInterval
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+kge @ pages_catch-all.D-F7dCJN.js:136
+ew @ pages_catch-all.D-F7dCJN.js:53
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kJe @ pages_catch-all.D-F7dCJN.js:136
+Ige @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):216 [WS] Pong sent from #2
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):493 
+        
+        
+       GET https://io.dexscreener.com/hype/reactions/dexPair/ethereum:0x0b3936ccAA286c430788883d8BCA448Bae779dE1 403 (Forbidden)
+sendReaction @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):493
+setInterval
+(anonymous) @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):762
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):510 [REACTIONS] Error - Status: 403
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):384 Refused to set unsafe header "sec-ch-ua"
+sendPlausibleEvent @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):384
+sendRealGA4Event.ep.chainId @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):690
+simulateUserAction @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):725
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):385 Refused to set unsafe header "sec-ch-ua-mobile"
+sendPlausibleEvent @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):385
+sendRealGA4Event.ep.chainId @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):690
+simulateUserAction @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):725
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):386 Refused to set unsafe header "sec-ch-ua-platform"
+sendPlausibleEvent @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):386
+sendRealGA4Event.ep.chainId @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):690
+simulateUserAction @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):725
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):691 [SOCIAL] Clicked discord
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):397 
+        
+        
+       POST https://pls.dexscreener.com/api/event 403 (Forbidden)
+sendPlausibleEvent @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):397
+sendRealGA4Event.ep.chainId @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):690
+simulateUserAction @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):725
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):353 [GA4] Event sent: social_click
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):457 
+        
+        
+       GET https://io.dexscreener.com/dex/chart/amm/v3/uniswap/bars/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?res=15&cb=299&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):457
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):466 [CHART] Error - Status: 403
+pages_catch-all.D-F7dCJN.js:317 
+        
+        
+       GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+avro @ pages_catch-all.D-F7dCJN.js:317
+getLogs @ AMMPairDetailChart-DFJS8Ziv.js:1
+fetchHistory @ AMMPairDetailChart-DFJS8Ziv.js:1
+R @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+setInterval
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+kge @ pages_catch-all.D-F7dCJN.js:136
+ew @ pages_catch-all.D-F7dCJN.js:53
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kJe @ pages_catch-all.D-F7dCJN.js:136
+Ige @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+pages_catch-all.D-F7dCJN.js:317 WebSocket connection to 'wss://io.dexscreener.com/dex/screener/v5/pair/ethereum/0x0b3936ccaa286c430788883d8bca448bae779de1' failed: Error during WebSocket handshake: Unexpected response code: 403
+Jre @ pages_catch-all.D-F7dCJN.js:317
+P @ pages_catch-all.D-F7dCJN.js:317
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):787 [STATUS] Browser #1
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):788 [SESSIONS] Completed: 9 | Current ops: 5/18
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):789 [OPS] Total: 115
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):790 [WS] Open: 2 | Created: 2 | Pongs: 14
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):793 [EVENTS] GA: 25 | Plausible: 0 | Charts: 0 | Reactions: 0
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):797 [CURRENT] Session ID: sess_9i8kn30jn_1757950455888
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):457 
+        
+        
+       GET https://io.dexscreener.com/dex/chart/amm/v3/uniswap/bars/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?bbn=23328794&res=15&cb=205&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):457
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):466 [CHART] Error - Status: 403
+pages_catch-all.D-F7dCJN.js:317 
+        
+        
+       GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+avro @ pages_catch-all.D-F7dCJN.js:317
+getLogs @ AMMPairDetailChart-DFJS8Ziv.js:1
+fetchHistory @ AMMPairDetailChart-DFJS8Ziv.js:1
+R @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+setInterval
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+kge @ pages_catch-all.D-F7dCJN.js:136
+ew @ pages_catch-all.D-F7dCJN.js:53
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kJe @ pages_catch-all.D-F7dCJN.js:136
+Ige @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):216 [WS] Pong sent from #1
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):384 Refused to set unsafe header "sec-ch-ua"
+sendPlausibleEvent @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):384
+sendRealGA4Event.ep.action @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):700
+simulateUserAction @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):725
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):385 Refused to set unsafe header "sec-ch-ua-mobile"
+sendPlausibleEvent @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):385
+sendRealGA4Event.ep.action @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):700
+simulateUserAction @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):725
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):386 Refused to set unsafe header "sec-ch-ua-platform"
+sendPlausibleEvent @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):386
+sendRealGA4Event.ep.action @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):700
+simulateUserAction @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):725
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):701 [SWAP] Opened swap widget
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):397 
+        
+        
+       POST https://pls.dexscreener.com/api/event 403 (Forbidden)
+sendPlausibleEvent @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):397
+sendRealGA4Event.ep.action @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):700
+simulateUserAction @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):725
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):629 [SEARCH] Sent search requests
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):353 [GA4] Event sent: swapWidget:open
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):566 
+        
+        
+       GET https://io.dexscreener.com/dex/search/spotlight/v8 403 (Forbidden)
+sendSearch @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):566
+setInterval
+(anonymous) @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):774
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):588 [SPOTLIGHT] Error - Status: 403
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):595 
+        
+        
+       GET https://io.dexscreener.com/dex/search/v10/pairs?q=0xc212bf51aad87676392b66c380880a887b9a1249 403 (Forbidden)
+sendSearch @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):595
+setInterval
+(anonymous) @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):774
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):619 
+        
+        
+       GET https://cfw.dexscreener.com/a/direct/search/native/coin-casino 403 (Forbidden)
+sendSearch @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):619
+setInterval
+(anonymous) @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):774
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):639 
+        
+        
+       GET https://io.dexscreener.com/dex/trending/v6?chainId=ethereum&timeframeKey=h6 403 (Forbidden)
+sendTrending @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):639
+setInterval
+(anonymous) @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):780
+pages_catch-all.D-F7dCJN.js:317 WebSocket connection to 'wss://io.dexscreener.com/dex/screener/v5/pair/ethereum/0x0b3936ccaa286c430788883d8bca448bae779de1' failed: Error during WebSocket handshake: Unexpected response code: 403
+Jre @ pages_catch-all.D-F7dCJN.js:317
+P @ pages_catch-all.D-F7dCJN.js:317
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):474 
+        
+        
+       GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?abn=23335825&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):474
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):457 
+        
+        
+       GET https://io.dexscreener.com/dex/chart/amm/v3/uniswap/bars/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?abn=23335794&res=15&cb=2&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):457
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):466 [CHART] Error - Status: 403
+pages_catch-all.D-F7dCJN.js:317 
+        
+        
+       GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+avro @ pages_catch-all.D-F7dCJN.js:317
+getLogs @ AMMPairDetailChart-DFJS8Ziv.js:1
+fetchHistory @ AMMPairDetailChart-DFJS8Ziv.js:1
+R @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+setInterval
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+kge @ pages_catch-all.D-F7dCJN.js:136
+ew @ pages_catch-all.D-F7dCJN.js:53
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kJe @ pages_catch-all.D-F7dCJN.js:136
+Ige @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):557 [ADS] Sent all ad requests
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):547 
+        
+        
+       GET https://cfw.dexscreener.com/a/self-serve/c233a4a710be940732e3 403 (Forbidden)
+sendAds @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):547
+setInterval
+(anonymous) @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):768
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):535 
+        
+        
+       GET https://cfw.dexscreener.com/a/direct/pair/trending-bar/coin-casino 403 (Forbidden)
+sendAds @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):535
+setInterval
+(anonymous) @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):768
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):493 
+        
+        
+       GET https://io.dexscreener.com/hype/reactions/dexPair/ethereum:0x0b3936ccAA286c430788883d8BCA448Bae779dE1 403 (Forbidden)
+sendReaction @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):493
+setInterval
+(anonymous) @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):762
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):510 [REACTIONS] Error - Status: 403
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):457 
+        
+        
+       GET https://io.dexscreener.com/dex/chart/amm/v3/uniswap/bars/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?res=15&cb=274&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):457
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):466 [CHART] Error - Status: 403
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):384 Refused to set unsafe header "sec-ch-ua"
+sendPlausibleEvent @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):384
+sendRealGA4Event._c @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):711
+simulateUserAction @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):725
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):385 Refused to set unsafe header "sec-ch-ua-mobile"
+sendPlausibleEvent @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):385
+sendRealGA4Event._c @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):711
+simulateUserAction @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):725
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):386 Refused to set unsafe header "sec-ch-ua-platform"
+sendPlausibleEvent @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):386
+sendRealGA4Event._c @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):711
+simulateUserAction @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):725
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):712 [WATCHLIST] Added to watchlist
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):397 
+        
+        
+       POST https://pls.dexscreener.com/api/event 403 (Forbidden)
+sendPlausibleEvent @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):397
+sendRealGA4Event._c @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):711
+simulateUserAction @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):725
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):353 [GA4] Event sent: toggleWatchlist
+pages_catch-all.D-F7dCJN.js:317 WebSocket connection to 'wss://io.dexscreener.com/dex/screener/v5/pair/ethereum/0x0b3936ccaa286c430788883d8bca448bae779de1' failed: Error during WebSocket handshake: Unexpected response code: 403
+Jre @ pages_catch-all.D-F7dCJN.js:317
+P @ pages_catch-all.D-F7dCJN.js:317
+pages_catch-all.D-F7dCJN.js:317 
+        
+        
+       GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+avro @ pages_catch-all.D-F7dCJN.js:317
+getLogs @ AMMPairDetailChart-DFJS8Ziv.js:1
+fetchHistory @ AMMPairDetailChart-DFJS8Ziv.js:1
+R @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+setInterval
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+kge @ pages_catch-all.D-F7dCJN.js:136
+ew @ pages_catch-all.D-F7dCJN.js:53
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kJe @ pages_catch-all.D-F7dCJN.js:136
+Ige @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):457 
+        
+        
+       GET https://io.dexscreener.com/dex/chart/amm/v3/uniswap/bars/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?bbn=23328801&res=15&cb=180&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):457
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):466 [CHART] Error - Status: 403
+pages_catch-all.D-F7dCJN.js:317 
+        
+        
+       GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+avro @ pages_catch-all.D-F7dCJN.js:317
+getLogs @ AMMPairDetailChart-DFJS8Ziv.js:1
+fetchHistory @ AMMPairDetailChart-DFJS8Ziv.js:1
+R @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+setInterval
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+kge @ pages_catch-all.D-F7dCJN.js:136
+ew @ pages_catch-all.D-F7dCJN.js:53
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kJe @ pages_catch-all.D-F7dCJN.js:136
+Ige @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):384 Refused to set unsafe header "sec-ch-ua"
+sendPlausibleEvent @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):384
+sendRealGA4Event.ep.action @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):700
+simulateUserAction @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):725
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):385 Refused to set unsafe header "sec-ch-ua-mobile"
+sendPlausibleEvent @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):385
+sendRealGA4Event.ep.action @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):700
+simulateUserAction @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):725
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):386 Refused to set unsafe header "sec-ch-ua-platform"
+sendPlausibleEvent @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):386
+sendRealGA4Event.ep.action @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):700
+simulateUserAction @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):725
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):175 [SESSION] Session ended: sess_9i8kn30jn_1757950455888 | Duration: 25s | Operations: 18
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):148 [SESSION] New user session started: sess_9ysy37pzv_1757950481672 | Max ops: 17
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):701 [SWAP] Opened swap widget
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):397 
+        
+        
+       POST https://pls.dexscreener.com/api/event 403 (Forbidden)
+sendPlausibleEvent @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):397
+sendRealGA4Event.ep.action @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):700
+simulateUserAction @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):725
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):353 [GA4] Event sent: swapWidget:open
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):216 [WS] Pong sent from #2
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):457 
+        
+        
+       GET https://io.dexscreener.com/dex/chart/amm/v3/uniswap/bars/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?res=15&cb=293&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):457
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):466 [CHART] Error - Status: 403
+pages_catch-all.D-F7dCJN.js:317 
+        
+        
+       GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+avro @ pages_catch-all.D-F7dCJN.js:317
+getLogs @ AMMPairDetailChart-DFJS8Ziv.js:1
+fetchHistory @ AMMPairDetailChart-DFJS8Ziv.js:1
+R @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+setInterval
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+kge @ pages_catch-all.D-F7dCJN.js:136
+ew @ pages_catch-all.D-F7dCJN.js:53
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kJe @ pages_catch-all.D-F7dCJN.js:136
+Ige @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):457 
+        
+        
+       GET https://io.dexscreener.com/dex/chart/amm/v3/uniswap/bars/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?bbn=23328714&res=15&cb=199&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):457
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):466 [CHART] Error - Status: 403
+pages_catch-all.D-F7dCJN.js:317 
+        
+        
+       GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+avro @ pages_catch-all.D-F7dCJN.js:317
+getLogs @ AMMPairDetailChart-DFJS8Ziv.js:1
+fetchHistory @ AMMPairDetailChart-DFJS8Ziv.js:1
+R @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+setInterval
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+kge @ pages_catch-all.D-F7dCJN.js:136
+ew @ pages_catch-all.D-F7dCJN.js:53
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kJe @ pages_catch-all.D-F7dCJN.js:136
+Ige @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):493 
+        
+        
+       GET https://io.dexscreener.com/hype/reactions/dexPair/ethereum:0x0b3936ccAA286c430788883d8BCA448Bae779dE1 403 (Forbidden)
+sendReaction @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):493
+setInterval
+(anonymous) @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):762
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):510 [REACTIONS] Error - Status: 403
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):474 
+        
+        
+       GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?abn=23335745&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):474
+socials @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):678
+simulateUserAction @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):725
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):457 
+        
+        
+       GET https://io.dexscreener.com/dex/chart/amm/v3/uniswap/bars/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?abn=23335714&res=15&cb=2&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):457
+socials @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):678
+simulateUserAction @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):725
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):466 [CHART] Error - Status: 403
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):353 [GA4] Event sent: chart_interaction
+document.cookie
+'DS-Country=US; chakra-ui-color-mode=dark; _ga=GA1.1.426151019.1757950317; _ga_532KFVB4WT=GS2.1.s1757950316$o1$g1$t1757950316$j60$l0$h0'
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):216 [WS] Pong sent from #1
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):457 
+        
+        
+       GET https://io.dexscreener.com/dex/chart/amm/v3/uniswap/bars/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?res=15&cb=245&q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 403 (Forbidden)
+refreshChart @ pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):457
+pptr:evaluate;runBrowserBot (D:\DEX\auto\full.js:1383:37):466 [CHART] Error - Status: 403
+pages_catch-all.D-F7dCJN.js:317 
+        
+        
+       GET https://io.dexscreener.com/dex/log/amm/v4/uniswap/all/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1?q=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&c=1 403 (Forbidden)
+e @ pages_catch-all.D-F7dCJN.js:317
+avro @ pages_catch-all.D-F7dCJN.js:317
+getLogs @ AMMPairDetailChart-DFJS8Ziv.js:1
+fetchHistory @ AMMPairDetailChart-DFJS8Ziv.js:1
+R @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ dex-pair-details-CfogGDHD.js:3
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+setInterval
+(anonymous) @ AMMPairDetailChart-DFJS8Ziv.js:1
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+kge @ pages_catch-all.D-F7dCJN.js:136
+ew @ pages_catch-all.D-F7dCJN.js:53
+jJe @ pages_catch-all.D-F7dCJN.js:136
+D_ @ pages_catch-all.D-F7dCJN.js:136
+kJe @ pages_catch-all.D-F7dCJN.js:136
+Ige @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+ [STATUS] Browser #1
+ [SESSIONS] Completed: 10 | Current ops: 6/17
+ [OPS] Total: 134
+ [WS] Open: 2 | Created: 2 | Pongs: 17
+ [EVENTS] GA: 29 | Plausible: 0 | Charts: 0 | Reactions: 0
+ [CURRENT] Session ID: sess_9ysy37pzv_1757950481672
