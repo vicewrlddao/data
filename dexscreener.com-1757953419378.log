@@ -1,0 +1,672 @@
+ Download the React DevTools for a better development experience: https://reactjs.org/link/react-devtools
+Fetch event handler is recognized as no-op. No-op fetch handler may bring overhead during navigation. Consider removing the handler if possible.
+ WebSocket connection to 'wss://io.dexscreener.com/dex/screener/v5/pair/ethereum/0x0b3936ccaa286c430788883d8bca448bae779de1' failed: Error during WebSocket handshake: Unexpected response code: 403
+Jre @ pages_catch-all.D-F7dCJN.js:317
+P @ pages_catch-all.D-F7dCJN.js:317
+(anonymous) @ pair-details-pair-overview-BMPHHc75.js:1
+t._trySubscribe @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+TF @ pages_catch-all.D-F7dCJN.js:168
+t.subscribe @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+c._next @ pages_catch-all.D-F7dCJN.js:168
+e.next @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+t._trySubscribe @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+TF @ pages_catch-all.D-F7dCJN.js:168
+t.subscribe @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+TF @ pages_catch-all.D-F7dCJN.js:168
+t.subscribe @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+TF @ pages_catch-all.D-F7dCJN.js:168
+t.subscribe @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+TF @ pages_catch-all.D-F7dCJN.js:168
+t.subscribe @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+c._next @ pages_catch-all.D-F7dCJN.js:168
+e.next @ pages_catch-all.D-F7dCJN.js:168
+e._subscribe @ pages_catch-all.D-F7dCJN.js:168
+t._trySubscribe @ pages_catch-all.D-F7dCJN.js:168
+e._trySubscribe @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+TF @ pages_catch-all.D-F7dCJN.js:168
+t.subscribe @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+TF @ pages_catch-all.D-F7dCJN.js:168
+t.subscribe @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+c._next @ pages_catch-all.D-F7dCJN.js:168
+e.next @ pages_catch-all.D-F7dCJN.js:168
+e._subscribe @ pages_catch-all.D-F7dCJN.js:168
+t._trySubscribe @ pages_catch-all.D-F7dCJN.js:168
+e._trySubscribe @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+TF @ pages_catch-all.D-F7dCJN.js:168
+t.subscribe @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+TF @ pages_catch-all.D-F7dCJN.js:168
+t.subscribe @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:168
+TF @ pages_catch-all.D-F7dCJN.js:168
+t.subscribe @ pages_catch-all.D-F7dCJN.js:168
+(anonymous) @ pages_catch-all.D-F7dCJN.js:317
+sw @ pages_catch-all.D-F7dCJN.js:123
+sJe @ pages_catch-all.D-F7dCJN.js:136
+oJe @ pages_catch-all.D-F7dCJN.js:136
+aJe @ pages_catch-all.D-F7dCJN.js:136
+iJe @ pages_catch-all.D-F7dCJN.js:136
+zJe @ pages_catch-all.D-F7dCJN.js:136
+Mv @ pages_catch-all.D-F7dCJN.js:136
+(anonymous) @ pages_catch-all.D-F7dCJN.js:136
+T @ pages_catch-all.D-F7dCJN.js:37
+D @ pages_catch-all.D-F7dCJN.js:37
+Me @ pages_catch-all.D-F7dCJN.js:37
+0x0b3936ccAA286c430788883d8BCA448Bae779dE1:1 Access to image at 'https://cdn.dexscreener.com/cms/images/597dc0c0e5f37b5b28d31aa6fa42ad81fee36c0f828f24ae43cfd66ff8b44704?width=64&height=64&fit=crop&quality=95&format=auto' from origin 'https://dexscreener.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+  GET https://cdn.dexscreener.com/cms/images/597dc0c0e5f37b5b28d31aa6fa42ad81fee36c0f828f24ae43cfd66ff8b44704?width=64&height=64&fit=crop&quality=95&format=auto net::ERR_FAILED
+(anonymous) @ library.97ddeff….js:157
+n @ library.97ddeff….js:157
+(anonymous) @ chart-widget-gui.75a…e3b6816e8b55a.js:13
+_updateSymbolLogo @ chart-widget-gui.75a…e3b6816e8b55a.js:13
+subscribe @ library.97ddeff….js:213
+z @ chart-widget-gui.75a…e3b6816e8b55a.js:13
+R @ chart-widget-gui.75a…e3b6816e8b55a.js:14
+addMainDataSource @ chart-widget-gui.75a…e3b6816e8b55a.js:19
+updateLayout @ chart-widget-gui.75a…e3b6816e8b55a.js:46
+(anonymous) @ library.97ddeff….js:294
+Promise.then
+_loadAndCreateLegendWidget @ library.97ddeff….js:294
+ui @ library.97ddeff….js:273
+_makePaneWidgetsAndSeparators @ library.97ddeff….js:317
+_updateGui @ library.97ddeff….js:318
+(anonymous) @ library.97ddeff….js:320
+_makeDefaultModel @ library.97ddeff….js:321
+_init @ library.97ddeff….js:319
+_requestMetadataAndProcessModel @ library.97ddeff….js:322
+await in _requestMetadataAndProcessModel
+_onConnection @ library.97ddeff….js:322
+_onChartSessionIsConnectedChanged @ library.97ddeff….js:306
+setValue @ library.97ddeff….js:213
+_onChartApiConnected @ library.97ddeff….js:303
+onMessage @ library.97ddeff….js:303
+JSServer.ChartApi._notifySessions @ library.97ddeff….js:37
+JSServer.ChartApi.connect @ library.97ddeff….js:35
+(anonymous) @ library.97ddeff….js:35
+JSServer.ChartApi._fireEvent @ library.97ddeff….js:34
+JSServer.ChartApi.start @ library.97ddeff….js:34
+(anonymous) @ library.97ddeff….js:868
+Promise.then
+48324 @ library.97ddeff….js:868
+r @ runtime.b283dc9….js:1
+(anonymous) @ library.97ddeff….js:887
+r.O @ runtime.b283dc9….js:1
+(anonymous) @ library.97ddeff….js:887
+a @ runtime.b283dc9….js:6
+(anonymous) @ library.97ddeff….js:1
+chart-widget-gui.75a…e3b6816e8b55a.js:13 Uncaught (in promise) undefined
+_updateSymbolLogo @ chart-widget-gui.75a…e3b6816e8b55a.js:13
+await in _updateSymbolLogo
+subscribe @ library.97ddeff….js:213
+z @ chart-widget-gui.75a…e3b6816e8b55a.js:13
+R @ chart-widget-gui.75a…e3b6816e8b55a.js:14
+addMainDataSource @ chart-widget-gui.75a…e3b6816e8b55a.js:19
+updateLayout @ chart-widget-gui.75a…e3b6816e8b55a.js:46
+(anonymous) @ library.97ddeff….js:294
+Promise.then
+_loadAndCreateLegendWidget @ library.97ddeff….js:294
+ui @ library.97ddeff….js:273
+_makePaneWidgetsAndSeparators @ library.97ddeff….js:317
+_updateGui @ library.97ddeff….js:318
+(anonymous) @ library.97ddeff….js:320
+_makeDefaultModel @ library.97ddeff….js:321
+_init @ library.97ddeff….js:319
+_requestMetadataAndProcessModel @ library.97ddeff….js:322
+await in _requestMetadataAndProcessModel
+_onConnection @ library.97ddeff….js:322
+_onChartSessionIsConnectedChanged @ library.97ddeff….js:306
+setValue @ library.97ddeff….js:213
+_onChartApiConnected @ library.97ddeff….js:303
+onMessage @ library.97ddeff….js:303
+JSServer.ChartApi._notifySessions @ library.97ddeff….js:37
+JSServer.ChartApi.connect @ library.97ddeff….js:35
+(anonymous) @ library.97ddeff….js:35
+JSServer.ChartApi._fireEvent @ library.97ddeff….js:34
+JSServer.ChartApi.start @ library.97ddeff….js:34
+(anonymous) @ library.97ddeff….js:868
+Promise.then
+48324 @ library.97ddeff….js:868
+r @ runtime.b283dc9….js:1
+(anonymous) @ library.97ddeff….js:887
+r.O @ runtime.b283dc9….js:1
+(anonymous) @ library.97ddeff….js:887
+a @ runtime.b283dc9….js:6
+(anonymous) @ library.97ddeff….js:1
+ WebSocket connection to 'wss://io.dexscreener.com/dex/screener/v5/pair/ethereum/0x0b3936ccaa286c430788883d8bca448bae779de1' failed: Error during WebSocket handshake: Unexpected response code: 403
+Jre @ pages_catch-all.D-F7dCJN.js:317
+P @ pages_catch-all.D-F7dCJN.js:317
+ [v9.4 FULL] Initializing COMPLETE bot with smart cookie handling...
+ [v9.4] Browser #1
+ [v9.4] Cookies available: YES
+ [SESSION] New user session started: sess_05cjezneo_1757953352075 | Max ops: 14
+ [v9.4 FULL] Starting with smart cookie management...
+ [v9.4] ✅ Cookies passed from Puppeteer
+ [v9.4] ✅ 403 monitoring active
+ [v9.4] ✅ Full feature set enabled
+ Refused to set unsafe header "sec-ch-ua"
+sendPlausibleEvent @ pptr:evaluate;create…js%3A1207%3A29):349
+(anonymous) @ pptr:evaluate;create…js%3A1207%3A29):706
+(anonymous) @ pptr:evaluate;create…js%3A1207%3A29):768
+ Refused to set unsafe header "sec-ch-ua-mobile"
+sendPlausibleEvent @ pptr:evaluate;create…js%3A1207%3A29):350
+(anonymous) @ pptr:evaluate;create…js%3A1207%3A29):706
+(anonymous) @ pptr:evaluate;create…js%3A1207%3A29):768
+ Refused to set unsafe header "sec-ch-ua-platform"
+sendPlausibleEvent @ pptr:evaluate;create…js%3A1207%3A29):351
+(anonymous) @ pptr:evaluate;create…js%3A1207%3A29):706
+(anonymous) @ pptr:evaluate;create…js%3A1207%3A29):768
+ [v9.4] ✅ FULL BOT ACTIVE WITH COMPLETE FEATURE SET!
+ [PLAUSIBLE] Event sent: pageview
+ WebSocket connection to 'wss://io.dexscreener.com/dex/screener/v5/pair/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1' failed: Error during WebSocket handshake: Unexpected response code: 403
+createWebSocket @ pptr:evaluate;create…js%3A1207%3A29):155
+(anonymous) @ pptr:evaluate;create…js%3A1207%3A29):712
+ [WS] Error on #1
+ws.onerror @ pptr:evaluate;create…js%3A1207%3A29):189
+error
+createWebSocket @ pptr:evaluate;create…js%3A1207%3A29):188
+(anonymous) @ pptr:evaluate;create…js%3A1207%3A29):712
+setTimeout
+(anonymous) @ pptr:evaluate;create…js%3A1207%3A29):711
+(anonymous) @ pptr:evaluate;create…js%3A1207%3A29):768
+ [WS] #1 closed. Reconnecting in 5s...
+ [GA4] Event sent: page_view
+ WebSocket connection to 'wss://io.dexscreener.com/dex/screener/v5/pair/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1' failed: Error during WebSocket handshake: Unexpected response code: 403
+createWebSocket @ pptr:evaluate;create…js%3A1207%3A29):155
+(anonymous) @ pptr:evaluate;create…js%3A1207%3A29):712
+ [WS] Error on #2
+ws.onerror @ pptr:evaluate;create…js%3A1207%3A29):189
+error
+createWebSocket @ pptr:evaluate;create…js%3A1207%3A29):188
+(anonymous) @ pptr:evaluate;create…js%3A1207%3A29):712
+setTimeout
+(anonymous) @ pptr:evaluate;create…js%3A1207%3A29):711
+(anonymous) @ pptr:evaluate;create…js%3A1207%3A29):768
+ [WS] #2 closed. Reconnecting in 5s...
+ [REACTIONS] Sent - Status: 200
+ WebSocket connection to 'wss://io.dexscreener.com/dex/screener/v5/pair/ethereum/0x0b3936ccaa286c430788883d8bca448bae779de1' failed: Error during WebSocket handshake: Unexpected response code: 403
+Jre @ pages_catch-all.D-F7dCJN.js:317
+P @ pages_catch-all.D-F7dCJN.js:317
+ [TRENDING] Refreshed - Status: 200
+ [CHART] Refresh type 0 - Status: 200
+ [ADS] Sent all ad requests
+ WebSocket connection to 'wss://io.dexscreener.com/dex/screener/v5/pair/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1' failed: Error during WebSocket handshake: Unexpected response code: 403
+createWebSocket @ pptr:evaluate;create…js%3A1207%3A29):155
+(anonymous) @ pptr:evaluate;create…js%3A1207%3A29):204
+ [WS] Error on #1
+ws.onerror @ pptr:evaluate;create…js%3A1207%3A29):189
+error
+createWebSocket @ pptr:evaluate;create…js%3A1207%3A29):188
+(anonymous) @ pptr:evaluate;create…js%3A1207%3A29):204
+setTimeout
+ws.onclose @ pptr:evaluate;create…js%3A1207%3A29):204
+ [WS] #1 closed. Reconnecting in 5s...
+ Refused to set unsafe header "sec-ch-ua"
+sendPlausibleEvent @ pptr:evaluate;create…js%3A1207%3A29):349
+(anonymous) @ pptr:evaluate;create…js%3A1207%3A29):638
+simulateUserAction @ pptr:evaluate;create…js%3A1207%3A29):688
+setInterval
+(anonymous) @ pptr:evaluate;create…js%3A1207%3A29):717
+(anonymous) @ pptr:evaluate;create…js%3A1207%3A29):768
+ Refused to set unsafe header "sec-ch-ua-mobile"
+sendPlausibleEvent @ pptr:evaluate;create…js%3A1207%3A29):350
+(anonymous) @ pptr:evaluate;create…js%3A1207%3A29):638
+simulateUserAction @ pptr:evaluate;create…js%3A1207%3A29):688
+setInterval
+(anonymous) @ pptr:evaluate;create…js%3A1207%3A29):717
+(anonymous) @ pptr:evaluate;create…js%3A1207%3A29):768
+ Refused to set unsafe header "sec-ch-ua-platform"
+sendPlausibleEvent @ pptr:evaluate;create…js%3A1207%3A29):351
+(anonymous) @ pptr:evaluate;create…js%3A1207%3A29):638
+simulateUserAction @ pptr:evaluate;create…js%3A1207%3A29):688
+setInterval
+(anonymous) @ pptr:evaluate;create…js%3A1207%3A29):717
+(anonymous) @ pptr:evaluate;create…js%3A1207%3A29):768
+ WebSocket connection to 'wss://io.dexscreener.com/dex/screener/v5/pair/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1' failed: Error during WebSocket handshake: Unexpected response code: 403
+createWebSocket @ pptr:evaluate;create…js%3A1207%3A29):155
+(anonymous) @ pptr:evaluate;create…js%3A1207%3A29):204
+ [WS] Error on #2
+ws.onerror @ pptr:evaluate;create…js%3A1207%3A29):189
+error
+createWebSocket @ pptr:evaluate;create…js%3A1207%3A29):188
+(anonymous) @ pptr:evaluate;create…js%3A1207%3A29):204
+setTimeout
+ws.onclose @ pptr:evaluate;create…js%3A1207%3A29):204
+ [WS] #2 closed. Reconnecting in 5s...
+ [PLAUSIBLE] Event sent: pageview
+ [GA4] Event sent: page_view
+ [SEARCH] Sent search requests
+ [SPOTLIGHT] Sent - Status: 200
+ WebSocket connection to 'wss://io.dexscreener.com/dex/screener/v5/pair/ethereum/0x0b3936ccaa286c430788883d8bca448bae779de1' failed: Error during WebSocket handshake: Unexpected response code: 403
+Jre @ pages_catch-all.D-F7dCJN.js:317
+P @ pages_catch-all.D-F7dCJN.js:317
+ [CHART] Refresh type 1 - Status: 200
+  GET https://dd.dexscreener.com/ds-data/ads/active/v4 net::ERR_TUNNEL_CONNECTION_FAILED
+window.fetch @ pptr:evaluate;create….js%3A1207%3A29):49
+sendAds @ pptr:evaluate;create…js%3A1207%3A29):487
+(anonymous) @ pptr:evaluate;create…js%3A1207%3A29):730
+setTimeout
+(anonymous) @ pptr:evaluate;create…js%3A1207%3A29):729
+(anonymous) @ pptr:evaluate;create…js%3A1207%3A29):768
+ WebSocket connection to 'wss://io.dexscreener.com/dex/screener/v5/pair/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1' failed: Error during WebSocket handshake: Unexpected response code: 403
+createWebSocket @ pptr:evaluate;create…js%3A1207%3A29):155
+(anonymous) @ pptr:evaluate;create…js%3A1207%3A29):204
+ [WS] Error on #1
+ws.onerror @ pptr:evaluate;create…js%3A1207%3A29):189
+error
+createWebSocket @ pptr:evaluate;create…js%3A1207%3A29):188
+(anonymous) @ pptr:evaluate;create…js%3A1207%3A29):204
+setTimeout
+ws.onclose @ pptr:evaluate;create…js%3A1207%3A29):204
+ [WS] #1 closed. Reconnecting in 5s...
+ WebSocket connection to 'wss://io.dexscreener.com/dex/screener/v5/pair/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1' failed: Error during WebSocket handshake: Unexpected response code: 403
+createWebSocket @ pptr:evaluate;create…js%3A1207%3A29):155
+(anonymous) @ pptr:evaluate;create…js%3A1207%3A29):204
+ [WS] Error on #2
+ws.onerror @ pptr:evaluate;create…js%3A1207%3A29):189
+error
+createWebSocket @ pptr:evaluate;create…js%3A1207%3A29):188
+(anonymous) @ pptr:evaluate;create…js%3A1207%3A29):204
+setTimeout
+ws.onclose @ pptr:evaluate;create…js%3A1207%3A29):204
+ [WS] #2 closed. Reconnecting in 5s...
+ [CHART] Refresh type 2 - Status: 200
+ [GA4] Event sent: chart_interaction
+ [CHART] Refresh type 0 - Status: 200
+ [SESSION] Session ended: sess_05cjezneo_1757953352075 | Duration: 16s | Operations: 14
+ [SESSION] New user session started: sess_neyev2o3b_1757953368118 | Max ops: 14
+ [REACTIONS] Sent - Status: 200
+ WebSocket connection to 'wss://io.dexscreener.com/dex/screener/v5/pair/ethereum/0x0b3936ccaa286c430788883d8bca448bae779de1' failed: Error during WebSocket handshake: Unexpected response code: 403
+Jre @ pages_catch-all.D-F7dCJN.js:317
+P @ pages_catch-all.D-F7dCJN.js:317
+ WebSocket connection to 'wss://io.dexscreener.com/dex/screener/v5/pair/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1' failed: Error during WebSocket handshake: Unexpected response code: 403
+createWebSocket @ pptr:evaluate;create…js%3A1207%3A29):155
+(anonymous) @ pptr:evaluate;create…js%3A1207%3A29):204
+ [WS] Error on #1
+ws.onerror @ pptr:evaluate;create…js%3A1207%3A29):189
+error
+createWebSocket @ pptr:evaluate;create…js%3A1207%3A29):188
+(anonymous) @ pptr:evaluate;create…js%3A1207%3A29):204
+setTimeout
+ws.onclose @ pptr:evaluate;create…js%3A1207%3A29):204
+ [WS] #1 closed. Reconnecting in 5s...
+ [CHART] Refresh type 0 - Status: 200
+ WebSocket connection to 'wss://io.dexscreener.com/dex/screener/v5/pair/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1' failed: Error during WebSocket handshake: Unexpected response code: 403
+createWebSocket @ pptr:evaluate;create…js%3A1207%3A29):155
+(anonymous) @ pptr:evaluate;create…js%3A1207%3A29):204
+ [WS] Error on #2
+ws.onerror @ pptr:evaluate;create…js%3A1207%3A29):189
+error
+createWebSocket @ pptr:evaluate;create…js%3A1207%3A29):188
+(anonymous) @ pptr:evaluate;create…js%3A1207%3A29):204
+setTimeout
+ws.onclose @ pptr:evaluate;create…js%3A1207%3A29):204
+ [WS] #2 closed. Reconnecting in 5s...
+0x0b3936ccAA286c4307…8BCA448Bae779dE1:48  GET https://static.dexscreen.com/finixio/coin-casino-trending-dark.custom3.svg net::ERR_TIMED_OUT
+ Refused to set unsafe header "sec-ch-ua"
+sendPlausibleEvent @ pptr:evaluate;create…js%3A1207%3A29):349
+sendRealGA4Event._c @ pptr:evaluate;create…js%3A1207%3A29):674
+simulateUserAction @ pptr:evaluate;create…js%3A1207%3A29):688
+setInterval
+(anonymous) @ pptr:evaluate;create…js%3A1207%3A29):717
+(anonymous) @ pptr:evaluate;create…js%3A1207%3A29):768
+ Refused to set unsafe header "sec-ch-ua-mobile"
+sendPlausibleEvent @ pptr:evaluate;create…js%3A1207%3A29):350
+sendRealGA4Event._c @ pptr:evaluate;create…js%3A1207%3A29):674
+simulateUserAction @ pptr:evaluate;create…js%3A1207%3A29):688
+setInterval
+(anonymous) @ pptr:evaluate;create…js%3A1207%3A29):717
+(anonymous) @ pptr:evaluate;create…js%3A1207%3A29):768
+ Refused to set unsafe header "sec-ch-ua-platform"
+sendPlausibleEvent @ pptr:evaluate;create…js%3A1207%3A29):351
+sendRealGA4Event._c @ pptr:evaluate;create…js%3A1207%3A29):674
+simulateUserAction @ pptr:evaluate;create…js%3A1207%3A29):688
+setInterval
+(anonymous) @ pptr:evaluate;create…js%3A1207%3A29):717
+(anonymous) @ pptr:evaluate;create…js%3A1207%3A29):768
+ [WATCHLIST] Added to watchlist
+ [PLAUSIBLE] Event sent: watchlist-add
+ [GA4] Event sent: toggleWatchlist
+ [CHART] Refresh type 1 - Status: 200
+ WebSocket connection to 'wss://io.dexscreener.com/dex/screener/v5/pair/ethereum/0x0b3936ccaa286c430788883d8bca448bae779de1' failed: Error during WebSocket handshake: Unexpected response code: 403
+Jre @ pages_catch-all.D-F7dCJN.js:317
+P @ pages_catch-all.D-F7dCJN.js:317
+ WebSocket connection to 'wss://io.dexscreener.com/dex/screener/v5/pair/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1' failed: Error during WebSocket handshake: Unexpected response code: 403
+createWebSocket @ pptr:evaluate;create…js%3A1207%3A29):155
+(anonymous) @ pptr:evaluate;create…js%3A1207%3A29):204
+ [WS] Error on #1
+ws.onerror @ pptr:evaluate;create…js%3A1207%3A29):189
+error
+createWebSocket @ pptr:evaluate;create…js%3A1207%3A29):188
+(anonymous) @ pptr:evaluate;create…js%3A1207%3A29):204
+setTimeout
+ws.onclose @ pptr:evaluate;create…js%3A1207%3A29):204
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):203 [WS] #1 closed. Reconnecting in 5s...
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):155 WebSocket connection to 'wss://io.dexscreener.com/dex/screener/v5/pair/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1' failed: Error during WebSocket handshake: Unexpected response code: 403
+createWebSocket @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):155
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):204
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):189 [WS] Error on #2
+ws.onerror @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):189
+error
+createWebSocket @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):188
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):204
+setTimeout
+ws.onclose @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):204
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):203 [WS] #2 closed. Reconnecting in 5s...
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):428 [CHART] Refresh type 2 - Status: 200
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):349 Refused to set unsafe header "sec-ch-ua"
+sendPlausibleEvent @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):349
+actions @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):682
+simulateUserAction @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):688
+setInterval
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):717
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):768
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):350 Refused to set unsafe header "sec-ch-ua-mobile"
+sendPlausibleEvent @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):350
+actions @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):682
+simulateUserAction @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):688
+setInterval
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):717
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):768
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):351 Refused to set unsafe header "sec-ch-ua-platform"
+sendPlausibleEvent @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):351
+actions @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):682
+simulateUserAction @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):688
+setInterval
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):717
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):768
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):683 [LOGIN] Login initiated
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):357 [PLAUSIBLE] Event sent: login-click
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):318 [GA4] Event sent: user:login-initiated
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):750 [STATUS] Browser #1
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):751 [SESSIONS] Completed: 1 | Current ops: 7/14
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):752 [OPS] Total: 21 | 403 Errors: 0
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):753 [WS] Open: 0 | Created: 11 | Pongs: 0
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):756 [EVENTS] GA: 5 | Plausible: 4 | Charts: 7 | Reactions: 2
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):760 [CURRENT] Session ID: sess_neyev2o3b_1757953368118
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):474 [REACTIONS] Sent - Status: 200
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):428 [CHART] Refresh type 0 - Status: 200
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):155 WebSocket connection to 'wss://io.dexscreener.com/dex/screener/v5/pair/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1' failed: Error during WebSocket handshake: Unexpected response code: 403
+createWebSocket @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):155
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):204
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):189 [WS] Error on #1
+ws.onerror @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):189
+error
+createWebSocket @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):188
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):204
+setTimeout
+ws.onclose @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):204
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):203 [WS] #1 closed. Reconnecting in 5s...
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):619 [TRENDING] Refreshed - Status: 200
+pages_catch-all.D-F7dCJN.js:317 WebSocket connection to 'wss://io.dexscreener.com/dex/screener/v5/pair/ethereum/0x0b3936ccaa286c430788883d8bca448bae779de1' failed: Error during WebSocket handshake: Unexpected response code: 403
+Jre @ pages_catch-all.D-F7dCJN.js:317
+P @ pages_catch-all.D-F7dCJN.js:317
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):349 Refused to set unsafe header "sec-ch-ua"
+sendPlausibleEvent @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):349
+sendRealGA4Event.ep.action @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):663
+simulateUserAction @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):688
+setInterval
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):717
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):768
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):350 Refused to set unsafe header "sec-ch-ua-mobile"
+sendPlausibleEvent @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):350
+sendRealGA4Event.ep.action @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):663
+simulateUserAction @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):688
+setInterval
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):717
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):768
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):351 Refused to set unsafe header "sec-ch-ua-platform"
+sendPlausibleEvent @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):351
+sendRealGA4Event.ep.action @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):663
+simulateUserAction @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):688
+setInterval
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):717
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):768
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):664 [SWAP] Opened swap widget
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):357 [PLAUSIBLE] Event sent: swap-open
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):318 [GA4] Event sent: swapWidget:open
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):155 WebSocket connection to 'wss://io.dexscreener.com/dex/screener/v5/pair/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1' failed: Error during WebSocket handshake: Unexpected response code: 403
+createWebSocket @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):155
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):204
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):189 [WS] Error on #2
+ws.onerror @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):189
+error
+createWebSocket @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):188
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):204
+setTimeout
+ws.onclose @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):204
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):203 [WS] #2 closed. Reconnecting in 5s...
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):428 [CHART] Refresh type 1 - Status: 200
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):140 [SESSION] Session ended: sess_neyev2o3b_1757953368118 | Duration: 24s | Operations: 14
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):113 [SESSION] New user session started: sess_g1ukrym7d_1757953392583 | Max ops: 16
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):428 [CHART] Refresh type 2 - Status: 200
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):349 Refused to set unsafe header "sec-ch-ua"
+sendPlausibleEvent @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):349
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):638
+simulateUserAction @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):688
+setInterval
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):717
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):768
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):350 Refused to set unsafe header "sec-ch-ua-mobile"
+sendPlausibleEvent @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):350
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):638
+simulateUserAction @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):688
+setInterval
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):717
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):768
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):351 Refused to set unsafe header "sec-ch-ua-platform"
+sendPlausibleEvent @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):351
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):638
+simulateUserAction @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):688
+setInterval
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):717
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):768
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):357 [PLAUSIBLE] Event sent: pageview
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):318 [GA4] Event sent: page_view
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):155 WebSocket connection to 'wss://io.dexscreener.com/dex/screener/v5/pair/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1' failed: Error during WebSocket handshake: Unexpected response code: 403
+createWebSocket @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):155
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):204
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):189 [WS] Error on #1
+ws.onerror @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):189
+error
+createWebSocket @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):188
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):204
+setTimeout
+ws.onclose @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):204
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):203 [WS] #1 closed. Reconnecting in 5s...
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):155 WebSocket connection to 'wss://io.dexscreener.com/dex/screener/v5/pair/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1' failed: WebSocket opening handshake timed out
+createWebSocket @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):155
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):204
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):189 [WS] Error on #2
+ws.onerror @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):189
+error
+createWebSocket @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):188
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):204
+setTimeout
+ws.onclose @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):204
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):203 [WS] #2 closed. Reconnecting in 5s...
+pages_catch-all.D-F7dCJN.js:317 WebSocket connection to 'wss://io.dexscreener.com/dex/screener/v5/pair/ethereum/0x0b3936ccaa286c430788883d8bca448bae779de1' failed: Error during WebSocket handshake: Unexpected response code: 403
+Jre @ pages_catch-all.D-F7dCJN.js:317
+P @ pages_catch-all.D-F7dCJN.js:317
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):474 [REACTIONS] Sent - Status: 200
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):428 [CHART] Refresh type 0 - Status: 200
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):349 Refused to set unsafe header "sec-ch-ua"
+sendPlausibleEvent @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):349
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):638
+simulateUserAction @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):688
+setInterval
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):717
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):768
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):350 Refused to set unsafe header "sec-ch-ua-mobile"
+sendPlausibleEvent @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):350
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):638
+simulateUserAction @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):688
+setInterval
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):717
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):768
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):351 Refused to set unsafe header "sec-ch-ua-platform"
+sendPlausibleEvent @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):351
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):638
+simulateUserAction @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):688
+setInterval
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):717
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):768
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):318 [GA4] Event sent: page_view
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):357 [PLAUSIBLE] Event sent: pageview
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):428 [CHART] Refresh type 1 - Status: 200
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):591 [SEARCH] Sent search requests
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):550 [SPOTLIGHT] Sent - Status: 200
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):155 WebSocket connection to 'wss://io.dexscreener.com/dex/screener/v5/pair/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1' failed: Error during WebSocket handshake: Unexpected response code: 403
+createWebSocket @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):155
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):204
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):189 [WS] Error on #1
+ws.onerror @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):189
+error
+createWebSocket @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):188
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):204
+setTimeout
+ws.onclose @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):204
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):203 [WS] #1 closed. Reconnecting in 5s...
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):155 WebSocket connection to 'wss://io.dexscreener.com/dex/screener/v5/pair/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1' failed: Error during WebSocket handshake: Unexpected response code: 403
+createWebSocket @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):155
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):204
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):189 [WS] Error on #2
+ws.onerror @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):189
+error
+createWebSocket @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):188
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):204
+setTimeout
+ws.onclose @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):204
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):203 [WS] #2 closed. Reconnecting in 5s...
+pages_catch-all.D-F7dCJN.js:317 WebSocket connection to 'wss://io.dexscreener.com/dex/screener/v5/pair/ethereum/0x0b3936ccaa286c430788883d8bca448bae779de1' failed: Error during WebSocket handshake: Unexpected response code: 403
+Jre @ pages_catch-all.D-F7dCJN.js:317
+P @ pages_catch-all.D-F7dCJN.js:317
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):428 [CHART] Refresh type 2 - Status: 200
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):349 Refused to set unsafe header "sec-ch-ua"
+sendPlausibleEvent @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):349
+actions @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):682
+simulateUserAction @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):688
+setInterval
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):717
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):768
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):350 Refused to set unsafe header "sec-ch-ua-mobile"
+sendPlausibleEvent @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):350
+actions @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):682
+simulateUserAction @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):688
+setInterval
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):717
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):768
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):351 Refused to set unsafe header "sec-ch-ua-platform"
+sendPlausibleEvent @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):351
+actions @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):682
+simulateUserAction @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):688
+setInterval
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):717
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):768
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):683 [LOGIN] Login initiated
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):357 [PLAUSIBLE] Event sent: login-click
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):318 [GA4] Event sent: user:login-initiated
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):474 [REACTIONS] Sent - Status: 200
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):428 [CHART] Refresh type 0 - Status: 200
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):750 [STATUS] Browser #1
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):751 [SESSIONS] Completed: 2 | Current ops: 13/16
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):752 [OPS] Total: 41 | 403 Errors: 0
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):753 [WS] Open: 0 | Created: 18 | Pongs: 0
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):756 [EVENTS] GA: 9 | Plausible: 8 | Charts: 14 | Reactions: 5
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):760 [CURRENT] Session ID: sess_g1ukrym7d_1757953392583
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):155 WebSocket connection to 'wss://io.dexscreener.com/dex/screener/v5/pair/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1' failed: Error during WebSocket handshake: Unexpected response code: 403
+createWebSocket @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):155
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):204
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):189 [WS] Error on #2
+ws.onerror @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):189
+error
+createWebSocket @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):188
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):204
+setTimeout
+ws.onclose @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):204
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):203 [WS] #2 closed. Reconnecting in 5s...
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):349 Refused to set unsafe header "sec-ch-ua"
+sendPlausibleEvent @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):349
+actions @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):682
+simulateUserAction @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):688
+setInterval
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):717
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):768
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):350 Refused to set unsafe header "sec-ch-ua-mobile"
+sendPlausibleEvent @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):350
+actions @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):682
+simulateUserAction @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):688
+setInterval
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):717
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):768
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):351 Refused to set unsafe header "sec-ch-ua-platform"
+sendPlausibleEvent @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):351
+actions @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):682
+simulateUserAction @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):688
+setInterval
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):717
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):768
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):683 [LOGIN] Login initiated
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):357 [PLAUSIBLE] Event sent: login-click
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):318 [GA4] Event sent: user:login-initiated
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):140 [SESSION] Session ended: sess_g1ukrym7d_1757953392583 | Duration: 22s | Operations: 16
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):113 [SESSION] New user session started: sess_awpywtkem_1757953415081 | Max ops: 9
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):619 [TRENDING] Refreshed - Status: 200
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):428 [CHART] Refresh type 1 - Status: 200
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):155 WebSocket connection to 'wss://io.dexscreener.com/dex/screener/v5/pair/ethereum/0x0b3936ccAA286c430788883d8BCA448Bae779dE1' failed: Error during WebSocket handshake: Unexpected response code: 403
+createWebSocket @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):155
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):204
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):189 [WS] Error on #1
+ws.onerror @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):189
+error
+createWebSocket @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):188
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):204
+setTimeout
+ws.onclose @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):204
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):203 [WS] #1 closed. Reconnecting in 5s...
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):428 [CHART] Refresh type 0 - Status: 200
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):349 Refused to set unsafe header "sec-ch-ua"
+sendPlausibleEvent @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):349
+actions @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):682
+simulateUserAction @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):688
+setInterval
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):717
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):768
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):350 Refused to set unsafe header "sec-ch-ua-mobile"
+sendPlausibleEvent @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):350
+actions @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):682
+simulateUserAction @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):688
+setInterval
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):717
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):768
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):351 Refused to set unsafe header "sec-ch-ua-platform"
+sendPlausibleEvent @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):351
+actions @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):682
+simulateUserAction @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):688
+setInterval
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):717
+(anonymous) @ pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):768
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):683 [LOGIN] Login initiated
+pptr:evaluate;createBrowser (D:\DEX\auto\full.js:1207:29):357 [PLAUSIBLE] Event sent: login-click
